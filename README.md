@@ -587,12 +587,10 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 
 - Contributing Guidelines
   - Please make an individual pull request for each suggestion
-  - Use the following format for links: [Resource](URL)
   - New categories or improvements to the existing categorization are welcome
 
 - 貢獻指南
   - 請每項建議發出個別的 pull request
-  - 連結請使用這樣的格式：[名稱](網址)
   - 新的類別跟既存類別的改善都歡迎
 
 # Special Thanks / 特別感謝
