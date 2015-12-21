@@ -250,37 +250,37 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 ## PHP Book List for Developer
 
 - Getting Started
-  - Learning PHP, MySQL & JavaScript With jQuery, CSS & HTML5, 4th edition :books:ISBN:9781491918661
-  - Programming PHP, Third Edition :books:ISBN:9781449361068
-  - Learning PHP, MySQL, JavaScript, and CSS, 2nd Edition :books:ISBN:9781449319267
-  - Head First PHP & MYSQL :books:ISBN:9781449363581
-  - Head First HTML and CSS, 2nd Edition :books:ISBN:9780596159900
+  - Learning PHP, MySQL & JavaScript With jQuery, CSS & HTML5, 4th edition ISBN:9781491918661
+  - Programming PHP, Third Edition ISBN:9781449361068
+  - Learning PHP, MySQL, JavaScript, and CSS, 2nd Edition ISBN:9781449319267
+  - Head First PHP & MYSQL ISBN:9781449363581
+  - Head First HTML and CSS, 2nd Edition ISBN:9780596159900
 - Advanced
   - Laravel: From Apprentice To Artisan
   - Laravel Testing Decoded
   - Laravel 5.1 Beauty
-  - Modern PHP: New Features and Good Practices :books:ISBN:9781491905012
-  - Learning PHP Design Patterns :books:ISBN:9781449344917
-  - Beautiful Testing: Leading Professionals Reveal How They Improve Software :books:ISBN:9780596159818
-  - PHP Master: Write Cutting Edge Code :books:ISBN:9780987090874
-  - Laravel 5 Essentials: Explore the Fundamentals of Laravel, One of the Most Expressive and Robust Php Frameworks :books:ISBN:9781785283017
-  - Laravel Design Patterns and Best Practices :books:ISBN:9781783287987
-  - Learning Laravel's Eloquent :books:ISBN:9781784391584
+  - Modern PHP: New Features and Good Practices ISBN:9781491905012
+  - Learning PHP Design Patterns ISBN:9781449344917
+  - Beautiful Testing: Leading Professionals Reveal How They Improve Software ISBN:9780596159818
+  - PHP Master: Write Cutting Edge Code ISBN:9780987090874
+  - Laravel 5 Essentials: Explore the Fundamentals of Laravel, One of the Most Expressive and Robust Php Frameworks ISBN:9781785283017
+  - Laravel Design Patterns and Best Practices ISBN:9781783287987
+  - Learning Laravel's Eloquent ISBN:9781784391584
 - Concept
-  - Head First Object-Oriented Analysis and Design :books:ISBN:9780596008673
-  - Head First Design Patterns :books:ISBN:0000596007124
-  - Refactoring: Improving the Design of Existing Code :books:ISBN:9780201485677
-  - Design Patterns: Elements of Reusable Object-Oriented Software :books:ISBN:9780201633610
-  - Scrum: The Art of Doing Twice the Work in Half the Time :books:ISBN:9781847941107
-  - Clean Code: A Handbook of Agile Software Craftsmanship :books:ISBN:9780132350884
-  - The Clean Coder: A Code of Conduct for Professional Programmers :books:ISBN:0076092046981
-  - Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation :books:ISBN:9780321601919
-  - Beautiful Architecture: Leading Thinkers Reveal the Hidden Beauty in Software Design :books:ISBN:9780596517984
-  - The Art of Readable Code :books:ISBN:9780596802295
-  - Design Patterns Explained: A New Perspective on Object-Oriented Design :books:ISBN:9780321247148
-  - Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman :books:ISBN: 9780596518387
-  - Quality Code: Software Testing Principles, Practices, and Patterns :books:ISBN:9780321832986
-  - Implementation Patterns :books:ISBN:0785342413090
+  - Head First Object-Oriented Analysis and Design ISBN:9780596008673
+  - Head First Design Patterns ISBN:0000596007124
+  - Refactoring: Improving the Design of Existing Code ISBN:9780201485677
+  - Design Patterns: Elements of Reusable Object-Oriented Software ISBN:9780201633610
+  - Scrum: The Art of Doing Twice the Work in Half the Time ISBN:9781847941107
+  - Clean Code: A Handbook of Agile Software Craftsmanship ISBN:9780132350884
+  - The Clean Coder: A Code of Conduct for Professional Programmers ISBN:0076092046981
+  - Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation ISBN:9780321601919
+  - Beautiful Architecture: Leading Thinkers Reveal the Hidden Beauty in Software Design ISBN:9780596517984
+  - The Art of Readable Code ISBN:9780596802295
+  - Design Patterns Explained: A New Perspective on Object-Oriented Design ISBN:9780321247148
+  - Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman ISBN: 9780596518387
+  - Quality Code: Software Testing Principles, Practices, and Patterns ISBN:9780321832986
+  - Implementation Patterns ISBN:0785342413090
 
 ## Interview
 
@@ -517,44 +517,44 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 ## 給 PHP 開發者的書單
 
 - 入門
-  - PHP、MySQL 與 JavaScript 學習手冊 (第四版) :books:ISBN：9789863476726
-  - PHP 程式設計 (第三版) :books:ISBN：9789862769881
-  - PHP、MySQL、JavaScript 與 CSS 學習手冊 (第二版) :books:ISBN：9789862766576
-  - 深入淺出 PHP 與 MySQL :books:ISBN：9789866840401
-  - 深入淺出 HTML&CSS (第二版) :books:ISBN：9789862768945
+  - PHP、MySQL 與 JavaScript 學習手冊 (第四版) ISBN：9789863476726
+  - PHP 程式設計 (第三版) ISBN：9789862769881
+  - PHP、MySQL、JavaScript 與 CSS 學習手冊 (第二版) ISBN：9789862766576
+  - 深入淺出 PHP 與 MySQL ISBN：9789866840401
+  - 深入淺出 HTML&CSS (第二版) ISBN：9789862768945
 - 進階
   - Laravel: From Apprentice To Artisan
   - Laravel Testing Decoded
   - Laravel 5.1 Beauty
-  - 現代 PHP：新的特點及良好習慣 :books:ISBN：9789863477785
-  - PHP 設計模式學習手冊 :books:ISBN：9789862767702
-  - 測試之美 :books:ISBN：9789862763445
-  - PHP 大師：寫出頂尖的程式碼 :books:ISBN：9789862765142
-  - Laravel 5 Essentials: Explore the Fundamentals of Laravel, One of the Most Expressive and Robust Php Frameworks :books:ISBN：9781785283017
-  - Laravel Design Patterns and Best Practices :books:ISBN：9781783287987
-  - Learning Laravel's Eloquent :books:ISBN: 9781784391584
+  - 現代 PHP：新的特點及良好習慣 ISBN：9789863477785
+  - PHP 設計模式學習手冊 ISBN：9789862767702
+  - 測試之美 ISBN：9789862763445
+  - PHP 大師：寫出頂尖的程式碼 ISBN：9789862765142
+  - Laravel 5 Essentials: Explore the Fundamentals of Laravel, One of the Most Expressive and Robust Php Frameworks ISBN：9781785283017
+  - Laravel Design Patterns and Best Practices ISBN：9781783287987
+  - Learning Laravel's Eloquent ISBN: 9781784391584
 - 觀念
-  - 深入淺出物件導向分析與設計 :books:ISBN：9789867794994
-  - 深入淺出－設計模式 :books:ISBN：9867794524
-  - 大話設計模式 :books:ISBN：9789866761799
-  - 大話重構 :books:ISBN：9789864340460
-  - 大話資料結構 :books:ISBN：9789866072116
-  - 重構－改善既有程式的設計 :books:ISBN：9861547533
-  - 重構－向範式前進 :books:ISBN：9861814027
-  - 物件導向設計模式－可再利用物件導向軟體之要素(精裝典藏版) :books:ISBN：9572054112
-  - SCRUM：用一半的時間 做兩倍的事 :books:ISBN：9863207144
-  - 無瑕的程式碼－敏捷軟體開發技巧守則 :books:ISBN：9862017058
-  - 無瑕的程式碼 番外篇－專業程式設計師的生存之道 :books:ISBN：9862017880
-  - Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 :books:ISBN：9789862019627
-  - 架構之美：頂尖架構師於軟體設計中蘊含的智慧結晶 :books:ISBN：9789862763988
-  - 易讀程式之美學：提升程式碼可讀性的簡單法則 :books:ISBN：9789862767191
-  - 設計模式的解析與活用 :books:ISBN：9789862018200
-  - 代碼之髓：編程語言核心概念 :books:ISBN：9787115361530
-  - 松本行弘談程式世界的未來 :books:ISBN：9789863473312
-  - 松本行弘的程式世界：成為一流程式設計師的14種思考術  :books:ISBN：9789862013571
-  - 學徒模式－優秀軟體開發者的養成之路 :books:ISBN: 9789862762561
-  - 高品質程式：軟體測試原則、實作與模式 :books:ISBN：9789863473060
-  - Kent Beck 的實作模式 :books:ISBN：9789862018088
+  - 深入淺出物件導向分析與設計 ISBN：9789867794994
+  - 深入淺出－設計模式 ISBN：9867794524
+  - 大話設計模式 ISBN：9789866761799
+  - 大話重構 ISBN：9789864340460
+  - 大話資料結構 ISBN：9789866072116
+  - 重構－改善既有程式的設計 ISBN：9861547533
+  - 重構－向範式前進 ISBN：9861814027
+  - 物件導向設計模式－可再利用物件導向軟體之要素(精裝典藏版) ISBN：9572054112
+  - SCRUM：用一半的時間 做兩倍的事 ISBN：9863207144
+  - 無瑕的程式碼－敏捷軟體開發技巧守則 ISBN：9862017058
+  - 無瑕的程式碼 番外篇－專業程式設計師的生存之道 ISBN：9862017880
+  - Continuous Delivery 中文版：利用自動化的建置、測試與部署完美創造出可信賴的軟體發佈 ISBN：9789862019627
+  - 架構之美：頂尖架構師於軟體設計中蘊含的智慧結晶 ISBN：9789862763988
+  - 易讀程式之美學：提升程式碼可讀性的簡單法則 ISBN：9789862767191
+  - 設計模式的解析與活用 ISBN：9789862018200
+  - 代碼之髓：編程語言核心概念 ISBN：9787115361530
+  - 松本行弘談程式世界的未來 ISBN：9789863473312
+  - 松本行弘的程式世界：成為一流程式設計師的14種思考術  ISBN：9789862013571
+  - 學徒模式－優秀軟體開發者的養成之路 ISBN: 9789862762561
+  - 高品質程式：軟體測試原則、實作與模式 ISBN：9789863473060
+  - Kent Beck 的實作模式 ISBN：9789862018088
 
 ## 面試
 
