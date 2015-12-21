@@ -354,7 +354,7 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 
 ### 路由 / 控制器 / 請求 / 回應 / 視圖
 
-- Level 1
+- 第一級
   - [A Gentle Introduction to Routing, Controllers, and Views](https://laracasts.com/series/laravel-5-fundamentals/episodes/3)
   - [Passing Data to Views](https://laracasts.com/series/laravel-5-fundamentals/episodes/4)
   - [基本功能 路由](https://laravel.tw/docs/5.1/routing)
@@ -363,22 +363,22 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
   - [基本功能 回應](https://laravel.tw/docs/5.1/responses)
   - [基本功能 視圖](https://laravel.tw/docs/5.1/views)
   - [Basic Model/Controller/View Workflow](https://laracasts.com/series/laravel-5-fundamentals/episodes/9)
-- Level 2
+- 第二級
   - [View Partials and Form Reuse](https://laracasts.com/series/laravel-5-fundamentals/episodes/13)
   - [Route Model Binding](https://laracasts.com/series/laravel-5-fundamentals/episodes/18)
 
 ### Blade
 
-- Level 1
+- 第一級
   - [Blade 101](https://laracasts.com/series/laravel-5-fundamentals/episodes/5)
   - [基本功能 Blade 模板](https://laravel.tw/docs/5.1/blade)
 
 ### 系統架構
 
-- Level 1
+- 第一級
   - [Environments and Configuration](https://laracasts.com/series/laravel-5-fundamentals/episodes/6)
   - [系統架構 應用程式結構](https://laravel.tw/docs/5.1/structure)
-- Level 2
+- 第二級
   - [系統架構 請求的生命週期](https://laravel.tw/docs/5.1/lifecycle)
   - [系統架構 服務提供者](https://laravel.tw/docs/5.1/providers)
   - [系統架構 服務容器](https://laravel.tw/docs/5.1/container)
@@ -387,20 +387,20 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 
 ### 資料庫
 
-- Level 1
+- 第一級
   - [Migrations](https://laracasts.com/series/laravel-5-fundamentals/episodes/7)
   - [資料庫 入門](https://laravel.tw/docs/5.1/database)
   - [資料庫 遷移](https://laravel.tw/docs/5.1/migrations)
-- Level 2
+- 第二級
   - [資料庫 查詢建構器](https://laravel.tw/docs/5.1/queries)
   - [資料庫 資料填充](https://laravel.tw/docs/5.1/seeding)
 
 ### Eloquent
 
-- Level 1
+- 第一級
   - [Eloquent 101](https://laracasts.com/series/laravel-5-fundamentals/episodes/8)
   - [Eloquent ORM 入門](https://laravel.tw/docs/5.1/eloquent)
-- Level 2
+- 第二級
   - [Eloquent ORM 關聯](https://laravel.tw/docs/5.1/eloquent-relationships)
   - [Eloquent ORM 集合](https://laravel.tw/docs/5.1/eloquent-collections)
   - [Eloquent ORM 存取器](https://laravel.tw/docs/5.1/eloquent-mutators)
@@ -410,7 +410,7 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 
 ### 表單 / 驗證
 
-- Level 1
+- 第一級
   - [Forms](https://laracasts.com/series/laravel-5-fundamentals/episodes/10)
   - [Dates, Mutators, and Scopes](https://laracasts.com/series/laravel-5-fundamentals/episodes/11)
   - [Form Requests and Controller Validation](https://laracasts.com/series/laravel-5-fundamentals/episodes/12)
@@ -418,47 +418,47 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 
 ### 認證
 
-- Level 1
+- 第一級
   - [Easy Auth](https://laracasts.com/series/laravel-5-fundamentals/episodes/15)
   - [系統服務 認證](https://laravel.tw/docs/5.1/authentication)
   - [系統服務 授權](https://laravel.tw/docs/5.1/authorization)
 
 ### 中介層
 
-- Level 1
+- 第一級
   - [Ogres Are Like Middleware](https://laracasts.com/series/laravel-5-fundamentals/episodes/16)
   - [基本功能 中介層](https://laravel.tw/docs/5.1/middleware)
 
 ### 前端整合
 
-- Level 1
+- 第一級
   - [Manage Your Assets](https://laracasts.com/series/laravel-5-fundamentals/episodes/19)
   - [系統服務 Elixir](https://laravel.tw/docs/5.1/elixir)
 
 ### Session
 
-- Level 1
+- 第一級
   - [Flash Messaging](https://laracasts.com/series/laravel-5-fundamentals/episodes/20)
   - [系統服務 Session](https://laravel.tw/docs/5.1/session)
 
 ### 檔案系統與雲端儲存
 
-- Level 1
+- 第一級
   - [系統服務 檔案系統與雲端儲存](https://laravel.tw/docs/5.1/filesystem)
 
 ### 快取
 
-- Level 1
+- 第一級
   - [系統服務 快取](https://laravel.tw/docs/5.1/cache)
 
 ### 郵件
 
-- Level 1
+- 第一級
   - [系統服務 郵件](https://laravel.tw/docs/5.1/mail)
 
 ### 測試與程式碼風格標準
 
-- Level 1
+- 第一級
   - [系統服務 測試](https://laravel.tw/docs/5.1/testing)
 
 ## 教學網站
