@@ -1,4 +1,6 @@
-# Awesome Laravel Education
+![Laravel Logo](https://raw.githubusercontent.com/fukuball/Awesome-Laravel-Education/master/laravel-logo-white.png)
+
+# Awesome Laravel Education [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of resources for learning about the Laravel PHP Framework, there are [English Version](#user-content-english-version--英文版) and [Chinese Version](#user-content-chinese-version--中文版).
 
