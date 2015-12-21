@@ -1,8 +1,8 @@
 # Awesome Laravel Education
 
-A curated list of resources for learning about the Laravel PHP Framework, there are [English Version](#English-Version-英文版) and [Chinese Version](Chinese-Version-中文版).
+A curated list of resources for learning about the Laravel PHP Framework, there are [English Version](#user-content-english-version--英文版) and [Chinese Version](#user-content-chinese-version--中文版).
 
-這是一個有關學習 Laravel PHP Framework 的資源列表，有 [英文版](#English-Version-英文版) 及 [中文版](Chinese-Version-中文版)。
+這是一個有關學習 Laravel PHP Framework 的資源列表，有 [英文版](#user-content-english-version--英文版) 及 [中文版](#user-content-chinese-version--中文版)。
 
 ## Key
 
