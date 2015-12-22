@@ -179,6 +179,8 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 
 - Getting Started
   - [Laravel Documentation: Services Testing](http://laravel.com/docs/5.1/testing) \#Testing
+- Advanced
+  - [BDD in Laravel: Getting Started with Behat and PhpSpec](http://www.sitepoint.com/bdd-in-laravel-getting-started-with-behat-and-phpspec/) \#Testing
 
 ### Case Study
 
