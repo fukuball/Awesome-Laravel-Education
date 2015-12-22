@@ -17,7 +17,7 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
   - [Routing / Controllers / Requests / Responses](#user-content-routing--controllers--requests--responses)
   - [Database](#user-content-database)
   - [Models / Eloquent](#user-content-models--eloquent)
-  - [Views / Blade](#user-content-vuews--blade)
+  - [Views / Blade](#user-content-views--blade)
   - [Forms / Validation](#user-content-forms--validation)
   - [Architecture Foundations / IoC](#user-content-architecture-foundations--ioc)
   - [Auth / Security](#user-content-auth--security)
@@ -68,7 +68,7 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
   - [Composer Intro](https://getcomposer.org/doc/00-intro.md)
   - [Laravel Documentation: Setup Homestead](http://laravel.com/docs/5.1/homestead) \#Homestead
 
-### Routing / Controllers / Requests / Responses / Views
+### Routing / Controllers / Requests / Responses
 
 - Getting Started
   - [Laracasts: A Gentle Introduction to Routing, Controllers, and Views](https://laracasts.com/series/laravel-5-fundamentals/episodes/3) \#Routing \#Controller \#View
