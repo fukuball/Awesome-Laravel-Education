@@ -304,6 +304,12 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 ## Interview
 
 - [Awesome PHP Interview Questions](https://github.com/MaximAbramchuck/awesome-interviews#php)
+- Introduction to Algorithms, 3rd Edition ISBN:9780262033848
+- Cracking the Coding Interview: 150 Programming Questions and Solutions ISBN:9780984782802
+- Elements of Programming Interviews: The Insiders' Guide ISBN:9781479274833
+- [Cracking the Facebook Coding Interview](http://www.slideshare.net/gayle2/cracking-the-facebook-coding-interview) - [Gayle McDowell](https://twitter.com/gayle)
+- [careercup](http://www.careercup.com/)
+- [LeetCode](https://leetcode.com/)
 
 ![Laravel Logo](https://raw.githubusercontent.com/fukuball/Awesome-Laravel-Education/master/laravel-logo-white.png)
 
@@ -620,6 +626,13 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 ## 面試
 
 - [偉哉 PHP 面試問題](https://github.com/MaximAbramchuck/awesome-interviews#php)
+- Introduction to Algorithms, 3rd Edition ISBN:9780262033848
+- Cracking the Coding Interview: 150 Programming Questions and Solutions ISBN:9780984782802
+- Elements of Programming Interviews: The Insiders' Guide ISBN:9781479274833
+- [Cracking the Facebook Coding Interview](http://www.slideshare.net/gayle2/cracking-the-facebook-coding-interview) - [Gayle McDowell](https://twitter.com/gayle)
+- [careercup](http://www.careercup.com/)
+- [LeetCode](https://leetcode.com/)
+- [求職求才指南-以持久合作為前提](https://github.com/jimhorng/awesome-interview-mindset/tree/master/zh_tw)
 
 ## 社群
 
