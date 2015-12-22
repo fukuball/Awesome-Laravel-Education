@@ -19,8 +19,8 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
   - [Models / Eloquent](#user-content-models--eloquent)
   - [Views / Blade](#user-content-vuews--blade)
   - [Forms / Validation](#user-content-forms--validation)
-  - [Architecture Foundations](#user-content-architecture-foundations)
-  - [Auth](#user-content-auth)
+  - [Architecture Foundations / IoC](#user-content-architecture-foundations--ioc)
+  - [Auth / Security](#user-content-auth--security)
   - [Middleware](#user-content-middleware)
   - [Front End](#user-content-front-end)
   - [Session](#user-content-session)
@@ -65,7 +65,7 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 - Getting Started
   - [Laracasts: Meet Composer](https://laracasts.com/series/laravel-5-fundamentals/episodes/1) \#Composer
   - [Laracasts: Virtual Machines and Homestead](https://laracasts.com/series/laravel-5-fundamentals/episodes/2) \#Homestead \#Virtual Machine \#Vagrant
-  - [Composer](https://getcomposer.org/doc/00-intro.md)
+  - [Composer Intro](https://getcomposer.org/doc/00-intro.md)
   - [Laravel Documentation: Setup Homestead](http://laravel.com/docs/5.1/homestead) \#Homestead
 
 ### Routing / Controllers / Requests / Responses / Views
@@ -73,115 +73,121 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 - Getting Started
   - [Laracasts: A Gentle Introduction to Routing, Controllers, and Views](https://laracasts.com/series/laravel-5-fundamentals/episodes/3) \#Routing \#Controller \#View
   - [Laravel Documentation: The Basics Routing](http://laravel.com/docs/5.1/routing) \#Routing
-  - [Laravel Documentation: The Basics Controllers](http://laravel.com/docs/5.1/controllers) \#Controllers
-  - [Laravel Documentation: The Basics Requests](http://laravel.com/docs/5.1/requests) \#Requests
-  - [Laravel Documentation: The Basics Responses](http://laravel.com/docs/5.1/responses) \#Responses
+  - [Laravel Documentation: The Basics Controllers](http://laravel.com/docs/5.1/controllers) \#Controller
+  - [Laravel Documentation: The Basics Requests](http://laravel.com/docs/5.1/requests) \#Request
+  - [Laravel Documentation: The Basics Responses](http://laravel.com/docs/5.1/responses) \#Response
 - Advanced
   - [Laracasts: Route Model Binding](https://laracasts.com/series/laravel-5-fundamentals/episodes/18) \#Routing
 
 ### Database
 
 - Getting Started
-  - [Migrations](https://laracasts.com/series/laravel-5-fundamentals/episodes/7)
-  - [Database Getting Started](http://laravel.com/docs/5.1/database)
-  - [Database Migrations](http://laravel.com/docs/5.1/migrations)
+  - [Laracasts: Migrations](https://laracasts.com/series/laravel-5-fundamentals/episodes/7) \#Migration
+  - [Laravel Documentation: Database Getting Started](http://laravel.com/docs/5.1/database) \#Database
+  - [Laravel Documentation: Database Migrations](http://laravel.com/docs/5.1/migrations) \#Migration
 - Advanced
-  - [Database Query Builder](http://laravel.com/docs/5.1/queries)
-  - [Database Seeding](http://laravel.com/docs/5.1/seeding)
+  - [Laravel Documentation: Database Query Builder](http://laravel.com/docs/5.1/queries) \#Database
+  - [Laravel Documentation: Database Seeding](http://laravel.com/docs/5.1/seeding) \#Migration
 
 ### Models / Eloquent
 
 - Getting Started
-  - [Eloquent 101](https://laracasts.com/series/laravel-5-fundamentals/episodes/8)
-  - [Laracasts: Basic Model/Controller/View Workflow](https://laracasts.com/series/laravel-5-fundamentals/episodes/9) \#Models
-  - [Eloquent ORM Getting Started](http://laravel.com/docs/5.1/eloquent)
+  - [Laracasts: Eloquent 101](https://laracasts.com/series/laravel-5-fundamentals/episodes/8) \#Eloquent
+  - [Laracasts: Basic Model/Controller/View Workflow](https://laracasts.com/series/laravel-5-fundamentals/episodes/9) \#Model \#Eloquent
+  - [Laravel Documentation: Eloquent ORM Getting Started](http://laravel.com/docs/5.1/eloquent) \#Eloquent
 - Advanced
-  - [Eloquent ORM Relationships](http://laravel.com/docs/5.1/eloquent-relationships)
-  - [Eloquent ORM Collections](http://laravel.com/docs/5.1/eloquent-collections)
-  - [Eloquent ORM Mutators](http://laravel.com/docs/5.1/eloquent-mutators)
-  - [Eloquent ORM Serialization](http://laravel.com/docs/5.1/eloquent-serialization)
-  - [Eloquent Relationships](https://laracasts.com/series/laravel-5-fundamentals/episodes/14)
+  - [Laravel Documentation: Eloquent ORM Relationships](http://laravel.com/docs/5.1/eloquent-relationships) \#Eloquent
+  - [Laravel Documentation: Eloquent ORM Collections](http://laravel.com/docs/5.1/eloquent-collections) \#Eloquent
+  - [Laravel Documentation: Eloquent ORM Mutators](http://laravel.com/docs/5.1/eloquent-mutators) \#Eloquent
+  - [Laravel Documentation: Eloquent ORM Serialization](http://laravel.com/docs/5.1/eloquent-serialization) \#Eloquent
+  - [Laracasts: Dates, Mutators, and Scopes](https://laracasts.com/series/laravel-5-fundamentals/episodes/11) \#Eloquent \#Carbon
+  - [Laracasts: Eloquent Relationships](https://laracasts.com/series/laravel-5-fundamentals/episodes/14) \#Eloquent
 
 ### Views / Blade
 
 - Getting Started
   - [Laracasts: Passing Data to Views](https://laracasts.com/series/laravel-5-fundamentals/episodes/4) \#View
-  - [Laravel Documentation: The Basics Views](http://laravel.com/docs/5.1/views) \#Views
-  - [Blade 101](https://laracasts.com/series/laravel-5-fundamentals/episodes/5)
-  - [The Basics Blade Templates](http://laravel.com/docs/5.1/blade)
+  - [Laravel Documentation: The Basics Views](http://laravel.com/docs/5.1/views) \#View
+  - [Laracasts: Blade 101](https://laracasts.com/series/laravel-5-fundamentals/episodes/5) \#View \#Blade
+  - [Laravel Documentation: The Basics Blade Templates](http://laravel.com/docs/5.1/blade) \#View \#Blade
 - Advanced
-  - [Laracasts: View Partials and Form Reuse](https://laracasts.com/series/laravel-5-fundamentals/episodes/13) \#Views
+  - [Laracasts: View Partials and Form Reuse](https://laracasts.com/series/laravel-5-fundamentals/episodes/13) \#View
 
 ### Forms / Validation
 
 - Getting Started
-  - [Forms](https://laracasts.com/series/laravel-5-fundamentals/episodes/10)
-  - [Dates, Mutators, and Scopes](https://laracasts.com/series/laravel-5-fundamentals/episodes/11)
-  - [Form Requests and Controller Validation](https://laracasts.com/series/laravel-5-fundamentals/episodes/12)
-  - [Services Validation](http://laravel.com/docs/5.1/validation)
+  - [Laracasts: Forms](https://laracasts.com/series/laravel-5-fundamentals/episodes/10) \#Form \#View
+  - [Laracasts: Form Requests and Controller Validation](https://laracasts.com/series/laravel-5-fundamentals/episodes/12) \#Form \#Validation
+  - [Laravel Documentation: Services Validation](http://laravel.com/docs/5.1/validation) \#Validation
 
-### Architecture Foundations
+### Architecture Foundations / IoC
 
 - Getting Started
-  - [Environments and Configuration](https://laracasts.com/series/laravel-5-fundamentals/episodes/6)
-  - [Architecture Foundations Application Structure](http://laravel.com/docs/5.1/structure)
+  - [Laracasts: Environments and Configuration](https://laracasts.com/series/laravel-5-fundamentals/episodes/6) \#Architecture
+  - [Laravel Documentation: Architecture Foundations Application Structure](http://laravel.com/docs/5.1/structure) \#Architecture
 - Advanced
-  - [Architecture Foundations Request Lifecycle](http://laravel.com/docs/5.1/lifecycle)
-  - [Architecture Foundations Service Providers](http://laravel.com/docs/5.1/providers)
-  - [Architecture Foundations Service Container](http://laravel.com/docs/5.1/container)
-  - [Architecture Foundations Contracts](http://laravel.com/docs/5.1/contracts)
-  - [Architecture Foundations Facades](http://laravel.com/docs/5.1/facades)
+  - [Laravel Documentation: Architecture Foundations Request Lifecycle](http://laravel.com/docs/5.1/lifecycle) \#Architecture
+  - [Laravel Documentation: Architecture Foundations Service Providers](http://laravel.com/docs/5.1/providers) \#Architecture
+  - [Laravel Documentation: Architecture Foundations Service Container](http://laravel.com/docs/5.1/container) \#Architecture
+  - [Laravel Documentation: Architecture Foundations Contracts](http://laravel.com/docs/5.1/contracts) \#Architecture
+  - [Laravel Documentation: Architecture Foundations Facades](http://laravel.com/docs/5.1/facades) \#Architecture
+  - [Laracasts: The Service Container](https://laracasts.com/series/laravel-5-fundamentals/episodes/26) \#Architecture \#Ioc
 
-### Auth
+### Auth / Security
 
 - Getting Started
-  - [Easy Auth](https://laracasts.com/series/laravel-5-fundamentals/episodes/15)
-  - [Services Authentication](http://laravel.com/docs/5.1/authentication)
-  - [Services Authorization](http://laravel.com/docs/5.1/authorization)
+  - [Laracasts: Easy Auth](https://laracasts.com/series/laravel-5-fundamentals/episodes/15) \#Authentication \#Eloquent
+  - [Laravel Documentation: Services Authentication](http://laravel.com/docs/5.1/authentication) \#Authentication
+  - [Laravel Documentation: Services Authorization](http://laravel.com/docs/5.1/authorization) \#Authentication
 
 ### Middleware
 
 - Getting Started
-  - [Ogres Are Like Middleware](https://laracasts.com/series/laravel-5-fundamentals/episodes/16)
-  - [The Basics Middleware](http://laravel.com/docs/5.1/middleware)
+  - [Laracasts: Ogres Are Like Middleware](https://laracasts.com/series/laravel-5-fundamentals/episodes/16) \#Middleware \#Security
+  - [Laravel Documentation: The Basics Middleware](http://laravel.com/docs/5.1/middleware) \#Middleware
 
 ### Front End
 
 - Getting Started
-  - [Manage Your Assets](https://laracasts.com/series/laravel-5-fundamentals/episodes/19)
-  - [Services Elixir](http://laravel.com/docs/5.1/elixir)
+  - [Laracasts: Manage Your Assets](https://laracasts.com/series/laravel-5-fundamentals/episodes/19) \#Front End \#Elixir
+  - [Laravel Documentation: Services Elixir](http://laravel.com/docs/5.1/elixir) \#Elixir
 
 ### Session
 
 - Getting Started
-  - [Flash Messaging](https://laracasts.com/series/laravel-5-fundamentals/episodes/20)
-  - [Services Session](http://laravel.com/docs/5.1/session)
+  - [Laracasts: Flash Messaging](https://laracasts.com/series/laravel-5-fundamentals/episodes/20) \#Session
+  - [Laravel Documentation: Services Session](http://laravel.com/docs/5.1/session) \#Session
 
 ### Filesystem / Cloud Storage
 
 - Getting Started
-  - [Services Filesystem / Cloud Storage](http://laravel.com/docs/5.1/filesystem)
+  - [Laravel Documentation: Services Filesystem / Cloud Storage](http://laravel.com/docs/5.1/filesystem) \#Filesystem
 
 ### Cache
 
 - Getting Started
-  - [Services Cache](http://laravel.com/docs/5.1/cache)
+  - [Laravel Documentation: Services Cache](http://laravel.com/docs/5.1/cache) \#Cache
 
 ### Mail
 
 - Getting Started
-  - [Services Mail](http://laravel.com/docs/5.1/mail)
+  - [Laravel Documentation: Services Mail](http://laravel.com/docs/5.1/mail) \#Mail
 
 ### Testing and Coding Standard
 
 - Getting Started
-  - [Services Testing](http://laravel.com/docs/5.1/testing)
+  - [Laravel Documentation: Services Testing](http://laravel.com/docs/5.1/testing) \#Testing
 
 ### Case Study
 
 - Advanced
   - Article and Tags
     - [Laracasts: Many to Many Relations (With Tags)](https://laracasts.com/series/laravel-5-fundamentals/episodes/21) \#Eloquent
+    - [Laracasts: Selecting Tags From the UI](https://laracasts.com/series/laravel-5-fundamentals/episodes/22)
+    - [Laracasts: Syncing Tags](https://laracasts.com/series/laravel-5-fundamentals/episodes/23)
+    - [Laracasts: Enhancing Select Elements](https://laracasts.com/series/laravel-5-fundamentals/episodes/24) \#Front End \#Elixir
+    - [Laracasts: When You Want a View Partial to Always Receive Data](https://laracasts.com/series/laravel-5-fundamentals/episodes/25)
+    - [Laracasts: Loose Ends and Wrapping Up](https://laracasts.com/series/laravel-5-fundamentals/episodes/27)
 
 ## Tutorial
 
