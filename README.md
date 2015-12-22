@@ -151,6 +151,7 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 - Getting Started
   - [Laracasts: Manage Your Assets](https://laracasts.com/series/laravel-5-fundamentals/episodes/19) \#Front-End \#Elixir
   - [Laravel Documentation: Services Elixir](http://laravel.com/docs/5.1/elixir) \#Elixir
+- Advanced
   - [Setup Bootstrap Sass with Laravel Elixir](https://laravel-news.com/2015/10/setup-bootstrap-sass-with-laravel-elixir/) \#Elixir
 
 ### Session
@@ -450,6 +451,7 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 - 入門
   - [Laracasts: Manage Your Assets](https://laracasts.com/series/laravel-5-fundamentals/episodes/19) \#Front-End \#Elixir
   - [Laravel 文件：系統服務 Elixir](https://laravel.tw/docs/5.1/elixir) \#Elixir
+- 進階
   - [Setup Bootstrap Sass with Laravel Elixir - 使用 Laravel Elixir 整合 Bootstrap Sass](https://laravel-news.com/2015/10/setup-bootstrap-sass-with-laravel-elixir/) \#Elixir
 
 ### Session
