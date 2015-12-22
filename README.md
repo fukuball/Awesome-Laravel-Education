@@ -14,12 +14,12 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 - [Quick References](#user-content-quick-references)
 - [Learn From Video / Posts](#user-content-learn-from-video--posts)
   - [Composer / Homestead](#user-content-composer--homestead)
-  - [Routing / Controllers / Requests / Responses / Views](#user-content-routing--controllers--requests--responses--views)
-  - [Blade](#user-content-blade)
-  - [Architecture Foundations](#user-content-architecture-foundations)
+  - [Routing / Controllers / Requests / Responses](#user-content-routing--controllers--requests--responses)
   - [Database](#user-content-database)
-  - [Eloquent](#user-content-eloquent)
+  - [Models / Eloquent](#user-content-models--eloquent)
+  - [Views / Blade](#user-content-vuews--blade)
   - [Forms / Validation](#user-content-forms--validation)
+  - [Architecture Foundations](#user-content-architecture-foundations)
   - [Auth](#user-content-auth)
   - [Middleware](#user-content-middleware)
   - [Front End](#user-content-front-end)
@@ -41,15 +41,15 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 
 ## New to Laravel
 
-- [Laravel 5 Fundamentals](https://laracasts.com/series/laravel-5-fundamentals)
+- [Laracasts: Laravel 5 Fundamentals](https://laracasts.com/series/laravel-5-fundamentals)
 - Laravel 5.1 Homestead Install Guide
   - [Laravel Homestead on Windows 8](http://sherriflemings.blogspot.ca/2015/03/laravel-homestead-on-windows-8.html)
   - [Laravel Homestead on Linux or Mac](http://laravel.com/docs/5.1/homestead)
-  - [Say Hello to Laravel Homestead 2.0](https://laracasts.com/lessons/say-hello-to-laravel-homestead-two)
+  - [Laracasts: Say Hello to Laravel Homestead 2.0](https://laracasts.com/lessons/say-hello-to-laravel-homestead-two)
 - [Setup Laravel excutable enviroment on AWS EC2 quickly](https://github.com/fukuball/ec2-laravel-evn-installer)
 - Learn from tutorial
-  - [Basic Task List](http://laravel.com/docs/5.1/quickstart)
-  - [Intermediate Task List](http://laravel.com/docs/5.1/quickstart-intermediate)
+  - [Laravel Documentation: Basic Task List](http://laravel.com/docs/5.1/quickstart)
+  - [Laravel Documentation: Intermediate Task List](http://laravel.com/docs/5.1/quickstart-intermediate)
 - [Laravel Documentation](http://laravel.com/docs/5.1)
 
 ## Quick References
@@ -72,22 +72,53 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 
 - Getting Started
   - [Laracasts: A Gentle Introduction to Routing, Controllers, and Views](https://laracasts.com/series/laravel-5-fundamentals/episodes/3) \#Routing \#Controller \#View
-  - [Passing Data to Views](https://laracasts.com/series/laravel-5-fundamentals/episodes/4)
-  - [The Basics Routing](http://laravel.com/docs/5.1/routing)
-  - [The Basics Controllers](http://laravel.com/docs/5.1/controllers)
-  - [The Basics Requests](http://laravel.com/docs/5.1/requests)
-  - [The Basics Responses](http://laravel.com/docs/5.1/responses)
-  - [The Basics Views](http://laravel.com/docs/5.1/views)
-  - [Basic Model/Controller/View Workflow](https://laracasts.com/series/laravel-5-fundamentals/episodes/9)
+  - [Laravel Documentation: The Basics Routing](http://laravel.com/docs/5.1/routing) \#Routing
+  - [Laravel Documentation: The Basics Controllers](http://laravel.com/docs/5.1/controllers) \#Controllers
+  - [Laravel Documentation: The Basics Requests](http://laravel.com/docs/5.1/requests) \#Requests
+  - [Laravel Documentation: The Basics Responses](http://laravel.com/docs/5.1/responses) \#Responses
 - Advanced
-  - [View Partials and Form Reuse](https://laracasts.com/series/laravel-5-fundamentals/episodes/13)
-  - [Route Model Binding](https://laracasts.com/series/laravel-5-fundamentals/episodes/18)
+  - [Laracasts: Route Model Binding](https://laracasts.com/series/laravel-5-fundamentals/episodes/18) \#Routing
 
-### Blade
+### Database
 
 - Getting Started
+  - [Migrations](https://laracasts.com/series/laravel-5-fundamentals/episodes/7)
+  - [Database Getting Started](http://laravel.com/docs/5.1/database)
+  - [Database Migrations](http://laravel.com/docs/5.1/migrations)
+- Advanced
+  - [Database Query Builder](http://laravel.com/docs/5.1/queries)
+  - [Database Seeding](http://laravel.com/docs/5.1/seeding)
+
+### Models / Eloquent
+
+- Getting Started
+  - [Eloquent 101](https://laracasts.com/series/laravel-5-fundamentals/episodes/8)
+  - [Laracasts: Basic Model/Controller/View Workflow](https://laracasts.com/series/laravel-5-fundamentals/episodes/9) \#Models
+  - [Eloquent ORM Getting Started](http://laravel.com/docs/5.1/eloquent)
+- Advanced
+  - [Eloquent ORM Relationships](http://laravel.com/docs/5.1/eloquent-relationships)
+  - [Eloquent ORM Collections](http://laravel.com/docs/5.1/eloquent-collections)
+  - [Eloquent ORM Mutators](http://laravel.com/docs/5.1/eloquent-mutators)
+  - [Eloquent ORM Serialization](http://laravel.com/docs/5.1/eloquent-serialization)
+  - [Eloquent Relationships](https://laracasts.com/series/laravel-5-fundamentals/episodes/14)
+
+### Views / Blade
+
+- Getting Started
+  - [Laracasts: Passing Data to Views](https://laracasts.com/series/laravel-5-fundamentals/episodes/4) \#View
+  - [Laravel Documentation: The Basics Views](http://laravel.com/docs/5.1/views) \#Views
   - [Blade 101](https://laracasts.com/series/laravel-5-fundamentals/episodes/5)
   - [The Basics Blade Templates](http://laravel.com/docs/5.1/blade)
+- Advanced
+  - [Laracasts: View Partials and Form Reuse](https://laracasts.com/series/laravel-5-fundamentals/episodes/13) \#Views
+
+### Forms / Validation
+
+- Getting Started
+  - [Forms](https://laracasts.com/series/laravel-5-fundamentals/episodes/10)
+  - [Dates, Mutators, and Scopes](https://laracasts.com/series/laravel-5-fundamentals/episodes/11)
+  - [Form Requests and Controller Validation](https://laracasts.com/series/laravel-5-fundamentals/episodes/12)
+  - [Services Validation](http://laravel.com/docs/5.1/validation)
 
 ### Architecture Foundations
 
@@ -100,36 +131,6 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
   - [Architecture Foundations Service Container](http://laravel.com/docs/5.1/container)
   - [Architecture Foundations Contracts](http://laravel.com/docs/5.1/contracts)
   - [Architecture Foundations Facades](http://laravel.com/docs/5.1/facades)
-
-### Database
-
-- Getting Started
-  - [Migrations](https://laracasts.com/series/laravel-5-fundamentals/episodes/7)
-  - [Database Getting Started](http://laravel.com/docs/5.1/database)
-  - [Database Migrations](http://laravel.com/docs/5.1/migrations)
-- Advanced
-  - [Database Query Builder](http://laravel.com/docs/5.1/queries)
-  - [Database Seeding](http://laravel.com/docs/5.1/seeding)
-
-### Eloquent
-
-- Getting Started
-  - [Eloquent 101](https://laracasts.com/series/laravel-5-fundamentals/episodes/8)
-  - [Eloquent ORM Getting Started](http://laravel.com/docs/5.1/eloquent)
-- Advanced
-  - [Eloquent ORM Relationships](http://laravel.com/docs/5.1/eloquent-relationships)
-  - [Eloquent ORM Collections](http://laravel.com/docs/5.1/eloquent-collections)
-  - [Eloquent ORM Mutators](http://laravel.com/docs/5.1/eloquent-mutators)
-  - [Eloquent ORM Serialization](http://laravel.com/docs/5.1/eloquent-serialization)
-  - [Eloquent Relationships](https://laracasts.com/series/laravel-5-fundamentals/episodes/14)
-
-### Forms / Validation
-
-- Getting Started
-  - [Forms](https://laracasts.com/series/laravel-5-fundamentals/episodes/10)
-  - [Dates, Mutators, and Scopes](https://laracasts.com/series/laravel-5-fundamentals/episodes/11)
-  - [Form Requests and Controller Validation](https://laracasts.com/series/laravel-5-fundamentals/episodes/12)
-  - [Services Validation](http://laravel.com/docs/5.1/validation)
 
 ### Auth
 
