@@ -327,6 +327,7 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
   - [快取](#user-content-快取)
   - [郵件](#user-content-郵件)
   - [測試與程式碼風格標準](#user-content-測試與程式碼風格標準)
+  - [重構](#user-content-重構)
   - [學習案例](#user-content-學習案例)
 - [教學網站](#user-content-教學網站)
 - [部落格](#user-content-部落格)
@@ -482,8 +483,17 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 - 入門
   - [Laravel 文件：系統服務 測試](https://laravel.tw/docs/5.1/testing) \#Testing
 
+### 重構
+
+- 進階
+  - [邁向 PHP 重構之路 - 以 Laravel 程式碼片段為例](http://jaceju.net/2015/10/05/simple-refatoring-example-01/)
+
 ### 學習案例
 
+- 入門
+  - 測試越辯越明
+    - [PHP與撰寫測試入門](http://blog.turn.tw/?p=2741)
+    - [這樣寫測試錯了嗎？](http://jaceju.net/2015/10/14/what-is-test/)
 - 進階
   - 文章及標籤應用程式
     - [Laracasts: Many to Many Relations (With Tags)](https://laracasts.com/series/laravel-5-fundamentals/episodes/21) \#Eloquent
