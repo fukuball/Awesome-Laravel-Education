@@ -152,7 +152,7 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
   - [Laracasts: Manage Your Assets](https://laracasts.com/series/laravel-5-fundamentals/episodes/19) \#Front-End \#Elixir
   - [Laravel Documentation: Services Elixir](http://laravel.com/docs/5.1/elixir) \#Elixir
 - Advanced
-  - [Setup Bootstrap Sass with Laravel Elixir](https://laravel-news.com/2015/10/setup-bootstrap-sass-with-laravel-elixir/) \#Elixir
+  - [Setup Bootstrap Sass with Laravel Elixir](https://laravel-news.com/2015/10/setup-bootstrap-sass-with-laravel-elixir/) - [Eric L. Barnes](https://twitter.com/ericlbarnes) \#Elixir
 
 ### Session
 
@@ -180,7 +180,7 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 - Getting Started
   - [Laravel Documentation: Services Testing](http://laravel.com/docs/5.1/testing) \#Testing
 - Advanced
-  - [BDD in Laravel: Getting Started with Behat and PhpSpec](http://www.sitepoint.com/bdd-in-laravel-getting-started-with-behat-and-phpspec/) \#Testing
+  - [BDD in Laravel: Getting Started with Behat and PhpSpec](http://www.sitepoint.com/bdd-in-laravel-getting-started-with-behat-and-phpspec/) - [Bruno Skvorc](https://twitter.com/bitfalls) \#Testing
 
 ### Case Study
 
@@ -455,7 +455,7 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
   - [Laracasts: Manage Your Assets](https://laracasts.com/series/laravel-5-fundamentals/episodes/19) \#Front-End \#Elixir
   - [Laravel 文件：系統服務 Elixir](https://laravel.tw/docs/5.1/elixir) \#Elixir
 - 進階
-  - [Setup Bootstrap Sass with Laravel Elixir - 使用 Laravel Elixir 整合 Bootstrap Sass](https://laravel-news.com/2015/10/setup-bootstrap-sass-with-laravel-elixir/) \#Elixir
+  - [Setup Bootstrap Sass with Laravel Elixir - 使用 Laravel Elixir 整合 Bootstrap Sass](https://laravel-news.com/2015/10/setup-bootstrap-sass-with-laravel-elixir/) - [Eric L. Barnes](https://twitter.com/ericlbarnes) \#Elixir
 
 ### Session
 
@@ -486,14 +486,14 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 ### 重構
 
 - 進階
-  - [邁向 PHP 重構之路 - 以 Laravel 程式碼片段為例](http://jaceju.net/2015/10/05/simple-refatoring-example-01/)
+  - [邁向 PHP 重構之路 - 以 Laravel 程式碼片段為例](http://jaceju.net/2015/10/05/simple-refatoring-example-01/) - [大澤木小鐵](https://twitter.com/jaceju)
 
 ### 學習案例
 
 - 入門
   - 測試越辯越明
-    - [PHP與撰寫測試入門](http://blog.turn.tw/?p=2741)
-    - [這樣寫測試錯了嗎？](http://jaceju.net/2015/10/14/what-is-test/)
+    - [PHP與撰寫測試入門](http://blog.turn.tw/?p=2741) - [尤川豪](https://twitter.com/howtomakeaturn)
+    - [這樣寫測試錯了嗎？](http://jaceju.net/2015/10/14/what-is-test/) - [大澤木小鐵](https://twitter.com/jaceju)
 - 進階
   - 文章及標籤應用程式
     - [Laracasts: Many to Many Relations (With Tags)](https://laracasts.com/series/laravel-5-fundamentals/episodes/21) \#Eloquent
