@@ -305,6 +305,8 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 
 - [Awesome PHP Interview Questions](https://github.com/MaximAbramchuck/awesome-interviews#php)
 
+![Laravel Logo](https://raw.githubusercontent.com/fukuball/Awesome-Laravel-Education/master/laravel-logo-white.png)
+
 # Chinese Version / 中文版
 
 ## 索引
