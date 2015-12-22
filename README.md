@@ -307,7 +307,7 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 
 - [Laravel 新手村](#user-content-laravel-新手村)
 - [快速參考](#user-content-快速參考)
-- [從優質影片及文章學習](#user-content-影片及文章)
+- [從優質影片及文章學習](#user-content-從優質影片及文章學習)
   - [Composer / Homestead](#user-content-composer--homestead-1)
   - [路由 / 控制器 / 請求 / 回應](#user-content-路由--控制器--請求--回應)
   - [資料庫](#user-content-資料庫)
