@@ -12,7 +12,7 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 
 - [New to Laravel](#user-content-new-to-laravel)
 - [Quick References](#user-content-quick-references)
-- [Video / Posts](#user-content-video--posts)
+- [Learn From Video / Posts](#user-content-learn-from-video--posts)
   - [Composer / Homestead](#user-content-composer--homestead)
   - [Routing / Controllers / Requests / Responses / Views](#user-content-routing--controllers--requests--responses--views)
   - [Blade](#user-content-blade)
@@ -28,6 +28,7 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
   - [Cache](#user-content-cache)
   - [Mail](#user-content-mail)
   - [Testing and Coding Standard](#user-content-testing-and-coding-standard)
+  - [Case Study](#user-content-case-study)
 - [Tutorial](#user-content-tutorial)
 - [Blogs](#user-content-blogs)
 - [Newsletters](#user-content-newsletters)
@@ -49,7 +50,7 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 - Learn from tutorial
   - [Basic Task List](http://laravel.com/docs/5.1/quickstart)
   - [Intermediate Task List](http://laravel.com/docs/5.1/quickstart-intermediate)
-- [Laravel Document](http://laravel.com/docs/5.1)
+- [Laravel Documentation](http://laravel.com/docs/5.1)
 
 ## Quick References
 
@@ -57,20 +58,20 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 - [Awesome PHP](https://github.com/ziadoz/awesome-php)
 - [Laravel API](http://laravel.com/api/5.1/)
 
-## Video / Posts
+## Learn From Awesome Video / Posts
 
 ### Composer / Homestead
 
-- Level 1
-  - [Meet Composer](https://laracasts.com/series/laravel-5-fundamentals/episodes/1)
-  - [Virtual Machines and Homestead](https://laracasts.com/series/laravel-5-fundamentals/episodes/2)
+- Getting Started
+  - [Laracasts: Meet Composer](https://laracasts.com/series/laravel-5-fundamentals/episodes/1) \#Composer
+  - [Laracasts: Virtual Machines and Homestead](https://laracasts.com/series/laravel-5-fundamentals/episodes/2) \#Homestead \#Virtual Machine \#Vagrant
   - [Composer](https://getcomposer.org/doc/00-intro.md)
-  - [Setup Homestead](http://laravel.com/docs/5.1/homestead)
+  - [Laravel Documentation: Setup Homestead](http://laravel.com/docs/5.1/homestead) \#Homestead
 
 ### Routing / Controllers / Requests / Responses / Views
 
-- Level 1
-  - [A Gentle Introduction to Routing, Controllers, and Views](https://laracasts.com/series/laravel-5-fundamentals/episodes/3)
+- Getting Started
+  - [Laracasts: A Gentle Introduction to Routing, Controllers, and Views](https://laracasts.com/series/laravel-5-fundamentals/episodes/3) \#Routing \#Controller \#View
   - [Passing Data to Views](https://laracasts.com/series/laravel-5-fundamentals/episodes/4)
   - [The Basics Routing](http://laravel.com/docs/5.1/routing)
   - [The Basics Controllers](http://laravel.com/docs/5.1/controllers)
@@ -78,22 +79,22 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
   - [The Basics Responses](http://laravel.com/docs/5.1/responses)
   - [The Basics Views](http://laravel.com/docs/5.1/views)
   - [Basic Model/Controller/View Workflow](https://laracasts.com/series/laravel-5-fundamentals/episodes/9)
-- Level 2
+- Advanced
   - [View Partials and Form Reuse](https://laracasts.com/series/laravel-5-fundamentals/episodes/13)
   - [Route Model Binding](https://laracasts.com/series/laravel-5-fundamentals/episodes/18)
 
 ### Blade
 
-- Level 1
+- Getting Started
   - [Blade 101](https://laracasts.com/series/laravel-5-fundamentals/episodes/5)
   - [The Basics Blade Templates](http://laravel.com/docs/5.1/blade)
 
 ### Architecture Foundations
 
-- Level 1
+- Getting Started
   - [Environments and Configuration](https://laracasts.com/series/laravel-5-fundamentals/episodes/6)
   - [Architecture Foundations Application Structure](http://laravel.com/docs/5.1/structure)
-- Level 2
+- Advanced
   - [Architecture Foundations Request Lifecycle](http://laravel.com/docs/5.1/lifecycle)
   - [Architecture Foundations Service Providers](http://laravel.com/docs/5.1/providers)
   - [Architecture Foundations Service Container](http://laravel.com/docs/5.1/container)
@@ -102,30 +103,29 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 
 ### Database
 
-- Level 1
+- Getting Started
   - [Migrations](https://laracasts.com/series/laravel-5-fundamentals/episodes/7)
   - [Database Getting Started](http://laravel.com/docs/5.1/database)
   - [Database Migrations](http://laravel.com/docs/5.1/migrations)
-- Level 2
+- Advanced
   - [Database Query Builder](http://laravel.com/docs/5.1/queries)
   - [Database Seeding](http://laravel.com/docs/5.1/seeding)
 
 ### Eloquent
 
-- Level 1
+- Getting Started
   - [Eloquent 101](https://laracasts.com/series/laravel-5-fundamentals/episodes/8)
   - [Eloquent ORM Getting Started](http://laravel.com/docs/5.1/eloquent)
-- Level 2
+- Advanced
   - [Eloquent ORM Relationships](http://laravel.com/docs/5.1/eloquent-relationships)
   - [Eloquent ORM Collections](http://laravel.com/docs/5.1/eloquent-collections)
   - [Eloquent ORM Mutators](http://laravel.com/docs/5.1/eloquent-mutators)
   - [Eloquent ORM Serialization](http://laravel.com/docs/5.1/eloquent-serialization)
   - [Eloquent Relationships](https://laracasts.com/series/laravel-5-fundamentals/episodes/14)
-  - [Many to Many Relations (With Tags)](https://laracasts.com/series/laravel-5-fundamentals/episodes/21)
 
 ### Forms / Validation
 
-- Level 1
+- Getting Started
   - [Forms](https://laracasts.com/series/laravel-5-fundamentals/episodes/10)
   - [Dates, Mutators, and Scopes](https://laracasts.com/series/laravel-5-fundamentals/episodes/11)
   - [Form Requests and Controller Validation](https://laracasts.com/series/laravel-5-fundamentals/episodes/12)
@@ -133,48 +133,54 @@ A curated list of resources for learning about the Laravel PHP Framework, there 
 
 ### Auth
 
-- Level 1
+- Getting Started
   - [Easy Auth](https://laracasts.com/series/laravel-5-fundamentals/episodes/15)
   - [Services Authentication](http://laravel.com/docs/5.1/authentication)
   - [Services Authorization](http://laravel.com/docs/5.1/authorization)
 
 ### Middleware
 
-- Level 1
+- Getting Started
   - [Ogres Are Like Middleware](https://laracasts.com/series/laravel-5-fundamentals/episodes/16)
   - [The Basics Middleware](http://laravel.com/docs/5.1/middleware)
 
 ### Front End
 
-- Level 1
+- Getting Started
   - [Manage Your Assets](https://laracasts.com/series/laravel-5-fundamentals/episodes/19)
   - [Services Elixir](http://laravel.com/docs/5.1/elixir)
 
 ### Session
 
-- Level 1
+- Getting Started
   - [Flash Messaging](https://laracasts.com/series/laravel-5-fundamentals/episodes/20)
   - [Services Session](http://laravel.com/docs/5.1/session)
 
 ### Filesystem / Cloud Storage
 
-- Level 1
+- Getting Started
   - [Services Filesystem / Cloud Storage](http://laravel.com/docs/5.1/filesystem)
 
 ### Cache
 
-- Level 1
+- Getting Started
   - [Services Cache](http://laravel.com/docs/5.1/cache)
 
 ### Mail
 
-- Level 1
+- Getting Started
   - [Services Mail](http://laravel.com/docs/5.1/mail)
 
 ### Testing and Coding Standard
 
-- Level 1
+- Getting Started
   - [Services Testing](http://laravel.com/docs/5.1/testing)
+
+### Case Study
+
+- Advanced
+  - Article and Tags
+    - [Laracasts: Many to Many Relations (With Tags)](https://laracasts.com/series/laravel-5-fundamentals/episodes/21) \#Eloquent
 
 ## Tutorial
 
