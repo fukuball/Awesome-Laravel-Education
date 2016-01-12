@@ -84,6 +84,7 @@
 - 進階
   - [Laravel 文件：資料庫 查詢建構器](https://laravel.tw/docs/5.1/queries) \#Database
   - [Laravel 文件：資料庫 資料填充](https://laravel.tw/docs/5.1/seeding) \#Migration
+  - [Select 使用 DB::raw() - 讓你的資料運作得更好](http://yish.im/2015/12/12/select-with-dbraw-make-your-database-work/) \#Database
 
 ### 模型 / Eloquent
 
