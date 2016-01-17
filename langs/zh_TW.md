@@ -21,6 +21,7 @@
   - [郵件](#user-content-郵件)
   - [測試與程式碼風格標準](#user-content-測試與程式碼風格標準)
   - [重構](#user-content-重構)
+  - [物件導向](#user-content-物件導向)
   - [學習案例](#user-content-學習案例)
 - [教學網站](#user-content-教學網站)
 - [部落格](#user-content-部落格)
@@ -181,6 +182,12 @@
 
 - 進階
   - [邁向 PHP 重構之路 - 以 Laravel 程式碼片段為例](http://jaceju.net/2015/10/05/simple-refatoring-example-01/) - [大澤木小鐵](https://twitter.com/jaceju)
+
+### 物件導向
+
+- 進階
+  -[如何使用 Namespace?](http://oomusou.io/php/php-namespace/) - [真OO無雙](https://twitter.com/oomusou)
+  -[如何使用 Interface?](http://oomusou.io/php/php-interface/) - [真OO無雙](https://twitter.com/oomusou)
 
 ### 學習案例
 
