@@ -203,6 +203,8 @@
     - [Laracasts: Enhancing Select Elements](https://laracasts.com/series/laravel-5-fundamentals/episodes/24) \#Front-End \#Elixir
     - [Laracasts: When You Want a View Partial to Always Receive Data](https://laracasts.com/series/laravel-5-fundamentals/episodes/25)
     - [Laracasts: Loose Ends and Wrapping Up](https://laracasts.com/series/laravel-5-fundamentals/episodes/27)
+  - 測試、重構、工具整合使用
+     - [如何使用 PhpStorm 實現 TDD、重構與偵錯?](http://oomusou.io/phpstorm/phpstorm-tdd-refactor/) - [真OO無雙](https://twitter.com/oomusou)
 
 ## 教學網站
 
