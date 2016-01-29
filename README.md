@@ -2,6 +2,14 @@
 
 A curated list of resources for learning about the Laravel PHP Framework, to help you beginner, intermediate or advanced developer.
 
+# Translations
+
+Please select the curated list below to begin your learning of the Laravel PHP Framework!
+
+- [Chinese](langs/zh_TW.md)
+- [English](langs/en_US.md)
+- [Portuguese](langs/pt_BR.md)
+
 # How to contribute?
 
 - Please make an individual pull request for each suggestion
@@ -13,12 +21,6 @@ These guys below contributed with content, translations and more. What are you w
 - [Laravel 台灣](https://www.facebook.com/groups/laravel.tw/)
 - [@fukeball](https://github.com/fukuball)
 - [@joaosvieira](https://github.com/joaosvieira)
-
-# Translations
-
-- [Chinese](langs/zh_TW.md)
-- [English](langs/en_US.md)
-- [Portuguese](langs/pt_BR.md)
 
 # License
 
