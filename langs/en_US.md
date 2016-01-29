@@ -208,6 +208,7 @@
 - [Scott Wilcox](http://dor.ky/tag/laravel/)
 - [Stillat](http://www.stillat.com/blog/category/programming/laravel/)
 - [Bosnadev](https://bosnadev.com/tag/laravel-2/)
+- [Laravel 5 Beauty](http://laravelcoding.com/blog?tag=L5+Beauty)
 
 ## Newsletters
 
