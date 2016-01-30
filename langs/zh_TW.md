@@ -54,6 +54,7 @@
 - [偉哉 Laravel](https://github.com/chiraggude/awesome-laravel)
 - [偉哉 PHP](https://github.com/ziadoz/awesome-php)
 - [Laravel API](http://laravel.com/api/5.1/)
+- [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
 
 ## 從優質影片及文章學習
 

@@ -49,6 +49,7 @@
 - [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
 - [Awesome PHP](https://github.com/ziadoz/awesome-php)
 - [Laravel API](http://laravel.com/api/5.1/)
+- [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
 
 ## Learn From Awesome Video / Posts
 
