@@ -36,7 +36,8 @@
 
 ## Laravel 新手村
 
-- [Laravel 5 基礎](https://laracasts.com/series/laravel-5-fundamentals)
+- [Laracasts: Laravel From Scratch](https://laracasts.com/series/laravel-5-from-scratch)
+- [Laracasts: Laravel 5 基礎](https://laracasts.com/series/laravel-5-fundamentals)
 - Laravel 5.1 Homestead 安裝指南
   - [Homestead 2.0 on windows 7/8](http://yish.im/2015/07/28/Homestead-2-0-on-windows7-8/)
   - [Homestead 2.0 on Ubuntu](http://yish.im/2015/03/22/Homestead-2-0-on-Ubuntu/)

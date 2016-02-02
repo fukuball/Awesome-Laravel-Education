@@ -33,6 +33,7 @@
 
 ## New to Laravel
 
+- [Laracasts: Laravel From Scratch](https://laracasts.com/series/laravel-5-from-scratch)
 - [Laracasts: Laravel 5 Fundamentals](https://laracasts.com/series/laravel-5-fundamentals)
 - Laravel 5.1 Homestead Install Guide
   - [Laravel Homestead on Windows 8](http://sherriflemings.blogspot.ca/2015/03/laravel-homestead-on-windows-8.html)
