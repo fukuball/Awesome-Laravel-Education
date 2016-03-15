@@ -206,7 +206,10 @@
     - [Laracasts: When You Want a View Partial to Always Receive Data](https://laracasts.com/series/laravel-5-fundamentals/episodes/25)
     - [Laracasts: Loose Ends and Wrapping Up](https://laracasts.com/series/laravel-5-fundamentals/episodes/27)
   - 測試、重構、工具整合使用
-     - [如何使用 PhpStorm 實現 TDD、重構與偵錯?](http://oomusou.io/phpstorm/phpstorm-tdd-refactor/) - [真OO無雙](https://twitter.com/oomusou)
+    - [如何使用 PhpStorm 實現 TDD、重構與偵錯?](http://oomusou.io/phpstorm/phpstorm-tdd-refactor/) - [真OO無雙](https://twitter.com/oomusou)
+  - [Laravel 5.2 專案結構目錄](http://yish.im/2016/03/14/Laravel-5-2-new-architecture-contents/)
+    - [Laravel 5.2 專案結構心得(一): 專案命名與 Entities](http://yish.im/2016/02/25/Laravel-5-2-new-architecture-entities/) \#Eloquent \#Model
+    - [Laravel 5.2 專案結構心得(二): Helpers](http://yish.im/2016/03/09/Laravel-5-2-new-architecture-helpers/) \#Helper
 
 ## 教學網站
 
