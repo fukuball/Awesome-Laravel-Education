@@ -210,6 +210,8 @@
   - [Laravel 5.2 專案結構目錄](http://yish.im/2016/03/14/Laravel-5-2-new-architecture-contents/)
     - [Laravel 5.2 專案結構心得(一): 專案命名與 Entities](http://yish.im/2016/02/25/Laravel-5-2-new-architecture-entities/) \#Eloquent \#Model
     - [Laravel 5.2 專案結構心得(二): Helpers](http://yish.im/2016/03/09/Laravel-5-2-new-architecture-helpers/) \#Helper
+    - [Laravel 5.2 專案結構心得(三): Providers](http://yish.im/2016/03/09/Laravel-5-2-new-architecture-providers/) \#Providers
+    - [Laravel 5.2 專案結構心得(四): Repositories](http://yish.im/2016/03/09/Laravel-5-2-new-architecture-repositories/) \#Repositories
 
 ## 教學網站
 
