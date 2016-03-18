@@ -212,6 +212,8 @@
     - [Laravel 5.2 專案結構心得(二): Helpers](http://yish.im/2016/03/09/Laravel-5-2-new-architecture-helpers/) \#Helper
     - [Laravel 5.2 專案結構心得(三): Providers](http://yish.im/2016/03/09/Laravel-5-2-new-architecture-providers/) \#Providers
     - [Laravel 5.2 專案結構心得(四): Repositories](http://yish.im/2016/03/09/Laravel-5-2-new-architecture-repositories/) \#Repositories
+    - [Laravel 5.2 專案結構心得(五): Services](http://yish.im/2016/03/14/Laravel-5-2-new-architecture-services/)
+    - [Laravel 5.2 專案結構心得(六): Validators](http://yish.im/2016/03/14/Laravel-5-2-new-architecture-validators/)
 
 ## 教學網站
 
