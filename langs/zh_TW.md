@@ -214,6 +214,8 @@
     - [Laravel 5.2 專案結構心得(四): Repositories](http://yish.im/2016/03/09/Laravel-5-2-new-architecture-repositories/) \#Repositories
     - [Laravel 5.2 專案結構心得(五): Services](http://yish.im/2016/03/14/Laravel-5-2-new-architecture-services/)
     - [Laravel 5.2 專案結構心得(六): Validators](http://yish.im/2016/03/14/Laravel-5-2-new-architecture-validators/)
+    - [Laravel 5.2 專案結構心得(七): Transformers](http://yish.im/2016/03/14/Laravel-5-2-new-architecture-transformers/)
+    - [Laravel 5.2 專案結構心得(八): Middleware](http://yish.im/2016/03/14/Laravel-5-2-new-architecture-middleware/)
 
 ## 教學網站
 
