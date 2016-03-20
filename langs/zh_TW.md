@@ -216,6 +216,8 @@
     - [Laravel 5.2 專案結構心得(六): Validators](http://yish.im/2016/03/14/Laravel-5-2-new-architecture-validators/)
     - [Laravel 5.2 專案結構心得(七): Transformers](http://yish.im/2016/03/14/Laravel-5-2-new-architecture-transformers/)
     - [Laravel 5.2 專案結構心得(八): Middleware](http://yish.im/2016/03/14/Laravel-5-2-new-architecture-middleware/)
+    - [Laravel 5.2 專案結構心得(九): Request](http://yish.im/2016/03/14/Laravel-5-2-new-architecture-request/)
+    - [Laravel 5.2 專案結構心得(十): Validator 小技巧](http://yish.im/2016/03/14/Laravel-5-2-new-architecture-validator-tricks/)
 
 ## 教學網站
 
