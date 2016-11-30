@@ -1,3 +1,5 @@
+![Laravel Logo](https://raw.githubusercontent.com/fukuball/Awesome-Laravel-Education/master/laravel-logo-white.png)
+
 # Chinese Version / 中文版
 
 ## 索引
@@ -347,5 +349,3 @@
 - [Laravel 台灣](https://www.facebook.com/groups/laravel.tw/)
 - [PHP 也有 Day](https://www.facebook.com/groups/849639948396465/)
 - [PHP 台灣 Slack](https://phptw.slack.com/messages/laravel/)
-
-![Laravel Logo](https://raw.githubusercontent.com/fukuball/Awesome-Laravel-Education/master/laravel-logo-white.png)

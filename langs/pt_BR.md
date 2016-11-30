@@ -1,4 +1,6 @@
-# English（Translation wanted）
+![Laravel Logo](https://raw.githubusercontent.com/fukuball/Awesome-Laravel-Education/master/laravel-logo-white.png)
+
+# English Version（Translation wanted）
 
 ## Index
 
@@ -305,5 +307,3 @@
 - [Cracking the Facebook Coding Interview](http://www.slideshare.net/gayle2/cracking-the-facebook-coding-interview) - [Gayle McDowell](https://twitter.com/gayle)
 - [careercup](http://www.careercup.com/)
 - [LeetCode](https://leetcode.com/)
-
-![Laravel Logo](https://raw.githubusercontent.com/fukuball/Awesome-Laravel-Education/master/laravel-logo-white.png)

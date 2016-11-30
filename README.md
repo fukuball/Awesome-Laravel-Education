@@ -22,7 +22,9 @@ These guys below contributed with content, translations and more. What are you w
 - [@fukeball](https://github.com/fukuball)
 - [@joaosvieira](https://github.com/joaosvieira)
 
-# English
+![Laravel Logo](https://raw.githubusercontent.com/fukuball/Awesome-Laravel-Education/master/laravel-logo-white.png)
+
+# English Version
 
 ## Index
 
@@ -329,8 +331,6 @@ These guys below contributed with content, translations and more. What are you w
 - [Cracking the Facebook Coding Interview](http://www.slideshare.net/gayle2/cracking-the-facebook-coding-interview) - [Gayle McDowell](https://twitter.com/gayle)
 - [careercup](http://www.careercup.com/)
 - [LeetCode](https://leetcode.com/)
-
-![Laravel Logo](https://raw.githubusercontent.com/fukuball/Awesome-Laravel-Education/master/laravel-logo-white.png)
 
 # License
 
