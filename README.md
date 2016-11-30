@@ -7,7 +7,7 @@ A curated list of resources for learning about the Laravel PHP Framework, to hel
 Please select the curated list below to begin your learning of the Laravel PHP Framework!
 
 - [Chinese](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/zh_TW.md)
-- [English](#english)
+- [English](#user-content-english-version)
 - [Portuguese](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/pt_BR.md)
 
 # How to contribute?
