@@ -58,6 +58,7 @@
 - [偉哉 PHP](https://github.com/ziadoz/awesome-php)
 - [Laravel API](http://laravel.com/api/5.1/)
 - [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
+- [bestmomo/laravel5-3-example](https://github.com/bestmomo/laravel5-3-example) - 如何使用 Laravel 5.3 創建一個 web application 的好範例。
 
 ## 從優質影片及文章學習
 
