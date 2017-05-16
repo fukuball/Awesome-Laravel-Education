@@ -332,6 +332,7 @@ These guys below contributed with content, translations and more. What are you w
 - [Cracking the Facebook Coding Interview](http://www.slideshare.net/gayle2/cracking-the-facebook-coding-interview) - [Gayle McDowell](https://twitter.com/gayle)
 - [careercup](http://www.careercup.com/)
 - [LeetCode](https://leetcode.com/)
+- [Laravel Interview Questions and Answers](http://www.laravelinterviewquestions.com/)
 
 # License
 

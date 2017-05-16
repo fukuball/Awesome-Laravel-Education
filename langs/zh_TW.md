@@ -344,6 +344,7 @@
 - [careercup](http://www.careercup.com/)
 - [LeetCode](https://leetcode.com/)
 - [求職求才指南-以持久合作為前提](https://github.com/jimhorng/awesome-interview-mindset/tree/master/zh_tw)
+- [Laravel Interview Questions and Answers](http://www.laravelinterviewquestions.com/)
 
 ## 社群
 
