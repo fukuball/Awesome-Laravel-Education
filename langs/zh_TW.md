@@ -7,7 +7,7 @@
 - [Laravel 新手村](#user-content-laravel-新手村)
 - [快速參考](#user-content-快速參考)
 - [從優質影片及文章學習](#user-content-從優質影片及文章學習)
-  - [Composer / Homestead](#user-content-composer--homestead-1)
+  - [Composer / Homestead / Docker](#user-content-composer--homestead--docker)
   - [路由 / 控制器 / 請求 / 回應](#user-content-路由--控制器--請求--回應)
   - [資料庫](#user-content-資料庫)
   - [模型 / Eloquent](#user-content-模型--eloquent)
@@ -62,13 +62,14 @@
 
 ## 從優質影片及文章學習
 
-### Composer / Homestead
+### Composer / Homestead / Docker
 
 - 入門
   - [Laracasts: Meet Composer](https://laracasts.com/series/laravel-5-fundamentals/episodes/1) \#Composer
   - [Laracasts: Virtual Machines and Homestead](https://laracasts.com/series/laravel-5-fundamentals/episodes/2) \#Homestead \#Virtual Machine \#Vagrant
   - [Composer](https://getcomposer.org/doc/00-intro.md) \#Composer
   - [Laravel 文件：設定 Homestead](https://laravel.tw/docs/5.4/homestead) \#5.4 \#Homestead
+  - [Laravel in Docker](https://hackernoon.com/laravel-in-docker-ceed4465352) \#5.4 \#Docker
 
 ### 路由 / 控制器 / 請求 / 回應
 
@@ -80,6 +81,7 @@
   - [Laravel 文件：基本功能 回應](https://laravel.tw/docs/5.4/responses) \#5.4 \#Response
 - 進階
   - [Laracasts: Route Model Binding](https://laracasts.com/series/laravel-5-fundamentals/episodes/18) \#Routing
+  - [Simple Way To HTTPS All Laravel Routes](http://seanoneill.me/eaest-way-to-https-on-all-laravel-routes/) \#5.4 \#Routing
 
 ### 資料庫
 

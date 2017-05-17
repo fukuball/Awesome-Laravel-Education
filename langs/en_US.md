@@ -7,7 +7,7 @@
 - [New to Laravel](#user-content-new-to-laravel)
 - [Quick References](#user-content-quick-references)
 - [Learn From Video / Posts](#user-content-learn-from-video--posts)
-  - [Composer / Homestead](#user-content-composer--homestead)
+  - [Composer / Homestead / Docker](#user-content-composer--homestead--docker)
   - [Routing / Controllers / Requests / Responses](#user-content-routing--controllers--requests--responses)
   - [Database](#user-content-database)
   - [Models / Eloquent](#user-content-models--eloquent)
@@ -57,13 +57,14 @@
 
 ## Learn From Awesome Video / Posts
 
-### Composer / Homestead
+### Composer / Homestead / Docker
 
 - Getting Started
   - [Laracasts: Meet Composer](https://laracasts.com/series/laravel-5-fundamentals/episodes/1) \#Composer
   - [Laracasts: Virtual Machines and Homestead](https://laracasts.com/series/laravel-5-fundamentals/episodes/2) \#Homestead \#Virtual Machine \#Vagrant
   - [Composer Intro](https://getcomposer.org/doc/00-intro.md) \#Composer
   - [Laravel Documentation: Setup Homestead](http://laravel.com/docs/5.4/homestead) \#5.4 \#Homestead
+  - [Laravel in Docker](https://hackernoon.com/laravel-in-docker-ceed4465352) \#5.4 \#Docker
 
 ### Routing / Controllers / Requests / Responses
 
@@ -75,6 +76,7 @@
   - [Laravel Documentation: The Basics Responses](http://laravel.com/docs/5.4/responses) \#5.4 \#Response
 - Advanced
   - [Laracasts: Route Model Binding](https://laracasts.com/series/laravel-5-fundamentals/episodes/18) \#Routing
+  - [Simple Way To HTTPS All Laravel Routes](http://seanoneill.me/eaest-way-to-https-on-all-laravel-routes/) \#5.4 \#Routing
 
 ### Database
 
