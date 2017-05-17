@@ -11,7 +11,7 @@
   - [路由 / 控制器 / 請求 / 回應](#user-content-路由--控制器--請求--回應)
   - [資料庫](#user-content-資料庫)
   - [模型 / Eloquent](#user-content-模型--eloquent)
-  - [視圖 / Blade](#user-content-視圖--blade)
+  - [視圖 / Blade / 語言](#user-content-視圖--blade--語言)
   - [表單 / 驗證](#user-content-表單--驗證)
   - [系統架構 / IoC](#user-content-系統架構--ioc)
   - [認證 / 安全性](#user-content-認證--安全性)
@@ -40,23 +40,23 @@
 
 - [Laracasts: Laravel From Scratch](https://laracasts.com/series/laravel-5-from-scratch)
 - [Laracasts: Laravel 5 基礎](https://laracasts.com/series/laravel-5-fundamentals)
-- Laravel 5.1 Homestead 安裝指南
+- Laravel Homestead 安裝指南
   - [Homestead 2.0 on windows 7/8](http://yish.im/2015/07/28/Homestead-2-0-on-windows7-8/)
   - [Homestead 2.0 on Ubuntu](http://yish.im/2015/03/22/Homestead-2-0-on-Ubuntu/)
-  - [Laravel 文件：Laravel Homestead on Linux or Mac](https://laravel.tw/docs/5.1/homestead)
+  - [Laravel 文件：Laravel Homestead on Linux or Mac](https://laravel.tw/docs/5.4/homestead) \#5.4
   - [Laracasts：向 Laravel Homestead 2.0 說 Hello](https://laracasts.com/lessons/say-hello-to-laravel-homestead-two)
 - [在 AWS EC2 上快速架好符合 Laravel 運行的環境](https://github.com/fukuball/ec2-laravel-evn-installer)
 - 新手做中學
-  - [Laravel 文件：基本任務清單](https://laravel.tw/docs/5.1/quickstart)
-  - [Laravel 文件：中級任務清單](https://laravel.tw/docs/5.1/quickstart-intermediate)
-- [Laravel 文件](https://laravel.tw/docs/5.1)
+  - [Laravel 文件：基本任務清單](https://laravel.tw/docs/5.1/quickstart) \#5.1
+  - [Laravel 文件：中級任務清單](https://laravel.tw/docs/5.1/quickstart-intermediate) \#5.1
+- [Laravel 文件](https://laravel.tw/docs/5.4) \#5.4
 - 跟著 Laravel 5.1 一起成為更好的 PHP 開發者 [影片](https://www.youtube.com/watch?v=al2eCFvvM-s&feature=youtu.be) [投影片](http://www.slideshare.net/shengyou/phpconf-taiwan-2015-laravel-51-php)
 
 ## 快速參考
 
 - [偉哉 Laravel](https://github.com/chiraggude/awesome-laravel)
 - [偉哉 PHP](https://github.com/ziadoz/awesome-php)
-- [Laravel API](http://laravel.com/api/5.1/)
+- [Laravel API](http://laravel.com/api/5.4/) \#5.4
 - [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
 - [bestmomo/laravel5-3-example](https://github.com/bestmomo/laravel5-3-example) - 如何使用 Laravel 5.3 創建一個 web application 的好範例。
 
@@ -68,16 +68,16 @@
   - [Laracasts: Meet Composer](https://laracasts.com/series/laravel-5-fundamentals/episodes/1) \#Composer
   - [Laracasts: Virtual Machines and Homestead](https://laracasts.com/series/laravel-5-fundamentals/episodes/2) \#Homestead \#Virtual Machine \#Vagrant
   - [Composer](https://getcomposer.org/doc/00-intro.md) \#Composer
-  - [Laravel 文件：設定 Homestead](https://laravel.tw/docs/5.1/homestead) \#Homestead
+  - [Laravel 文件：設定 Homestead](https://laravel.tw/docs/5.4/homestead) \#5.4 \#Homestead
 
 ### 路由 / 控制器 / 請求 / 回應
 
 - 入門
   - [Laracasts: A Gentle Introduction to Routing, Controllers, and Views](https://laracasts.com/series/laravel-5-fundamentals/episodes/3) \#Routing \#Controller \#View
-  - [Laravel 文件：基本功能 路由](https://laravel.tw/docs/5.1/routing) \#Routing
-  - [Laravel 文件：基本功能 控制器](https://laravel.tw/docs/5.1/controllers) \#Controller
-  - [Laravel 文件：基本功能 請求](https://laravel.tw/docs/5.1/requests) \#Request
-  - [Laravel 文件：基本功能 回應](https://laravel.tw/docs/5.1/responses) \#Response
+  - [Laravel 文件：基本功能 路由](https://laravel.tw/docs/5.4/routing) \#5.4 \#Routing
+  - [Laravel 文件：基本功能 控制器](https://laravel.tw/docs/5.4/controllers) \#5.4 \#Controller
+  - [Laravel 文件：基本功能 請求](https://laravel.tw/docs/5.4/requests) \#5.4 \#Request
+  - [Laravel 文件：基本功能 回應](https://laravel.tw/docs/5.4/responses) \#5.4 \#Response
 - 進階
   - [Laracasts: Route Model Binding](https://laracasts.com/series/laravel-5-fundamentals/episodes/18) \#Routing
 
@@ -85,11 +85,11 @@
 
 - 入門
   - [Laracasts: Migrations](https://laracasts.com/series/laravel-5-fundamentals/episodes/7) \#Migration
-  - [Laravel 文件：資料庫 入門](https://laravel.tw/docs/5.1/database) \#Database
-  - [Laravel 文件：資料庫 遷移](https://laravel.tw/docs/5.1/migrations) \#Migration
+  - [Laravel 文件：資料庫 入門](https://laravel.tw/docs/5.4/database) \#5.4 \#Database
+  - [Laravel 文件：資料庫 遷移](https://laravel.tw/docs/5.4/migrations) \#5.4 \#Migration
 - 進階
-  - [Laravel 文件：資料庫 查詢建構器](https://laravel.tw/docs/5.1/queries) \#Database
-  - [Laravel 文件：資料庫 資料填充](https://laravel.tw/docs/5.1/seeding) \#Migration
+  - [Laravel 文件：資料庫 查詢建構器](https://laravel.tw/docs/5.4/queries) \#5.4 \#Database
+  - [Laravel 文件：資料庫 資料填充](https://laravel.tw/docs/5.4/seeding) \#5.4 \#Migration
   - [Select 使用 DB::raw() - 讓你的資料運作得更好](http://yish.im/2015/12/12/select-with-dbraw-make-your-database-work/) \#Database
 
 ### 模型 / Eloquent
@@ -97,63 +97,64 @@
 - 入門
   - [Laracasts: Eloquent 101](https://laracasts.com/series/laravel-5-fundamentals/episodes/8) \#Eloquent
   - [Laracasts: Basic Model/Controller/View Workflow](https://laracasts.com/series/laravel-5-fundamentals/episodes/9) \#Model \#Eloquent
-  - [Laravel 文件：Eloquent ORM 入門](https://laravel.tw/docs/5.1/eloquent) \#Eloquent
+  - [Laravel 文件：Eloquent ORM 入門](https://laravel.tw/docs/5.4/eloquent) \#5.4 \#Eloquent
 - 進階
-  - [Laravel 文件：Eloquent ORM 關聯](https://laravel.tw/docs/5.1/eloquent-relationships) \#Eloquent
-  - [Laravel 文件：Eloquent ORM 集合](https://laravel.tw/docs/5.1/eloquent-collections) \#Eloquent
-  - [Laravel 文件：Eloquent ORM 存取器](https://laravel.tw/docs/5.1/eloquent-mutators) \#Eloquent
-  - [Laravel 文件：Eloquent ORM 序列化](https://laravel.tw/docs/5.1/eloquent-serialization) \#Eloquent
+  - [Laravel 文件：Eloquent ORM 關聯](https://laravel.tw/docs/5.4/eloquent-relationships) \#5.4 \#Eloquent
+  - [Laravel 文件：Eloquent ORM 集合](https://laravel.tw/docs/5.4/eloquent-collections) \#5.4 \#Eloquent
+  - [Laravel 文件：Eloquent ORM 存取器](https://laravel.tw/docs/5.4/eloquent-mutators) \#5.4 \#Eloquent
+  - [Laravel 文件：Eloquent ORM 序列化](https://laravel.tw/docs/5.4/eloquent-serialization) \#5.4 \#Eloquent
   - [Laracasts: Dates, Mutators, and Scopes](https://laracasts.com/series/laravel-5-fundamentals/episodes/11) \#Eloquent \#Carbon
   - [Laracasts: Eloquent Relationships](https://laracasts.com/series/laravel-5-fundamentals/episodes/14) \#Eloquent
 
-### 視圖 / Blade
+### 視圖 / Blade / 語言
 
 - 入門
   - [Laracasts: Passing Data to Views](https://laracasts.com/series/laravel-5-fundamentals/episodes/4) \#View
-  - [Laravel 文件：基本功能 視圖](https://laravel.tw/docs/5.1/views) \#View
+  - [Laravel 文件：基本功能 視圖](https://laravel.tw/docs/5.4/views) \#5.4 \#View
   - [Laracasts: Blade 101](https://laracasts.com/series/laravel-5-fundamentals/episodes/5) \#View \#Blade
-  - [Laravel 文件：基本功能 Blade 模板](https://laravel.tw/docs/5.1/blade) \#View \#Blade
+  - [Laravel 文件：基本功能 Blade 模板](https://laravel.tw/docs/5.4/blade) \#5.4 \#View \#Blade
 - 進階
   - [Laracasts: View Partials and Form Reuse](https://laracasts.com/series/laravel-5-fundamentals/episodes/13) \#View
+  - [Php vars @ JS with the help of a Laravel SP & View Composer](https://medium.com/@lollypopgr/php-vars-js-with-the-help-of-a-laravel-sp-view-composer-9e017b66c036) \#5.4 \#View \#Language
 
 ### 表單 / 驗證
 
 - 入門
   - [Laracasts: Forms](https://laracasts.com/series/laravel-5-fundamentals/episodes/10) \#Form \#View
   - [Laracasts: Form Requests and Controller Validation](https://laracasts.com/series/laravel-5-fundamentals/episodes/12) \#Form \#Validation
-  - [Laravel 文件：系統服務 驗證](https://laravel.tw/docs/5.1/validation)
+  - [Laravel 文件：系統服務 驗證](https://laravel.tw/docs/5.4/validation) \#5.4
 
 ### 系統架構 / IoC
 
 - 入門
   - [Laracasts: Environments and Configuration](https://laracasts.com/series/laravel-5-fundamentals/episodes/6) \#Architecture
-  - [Laravel 文件：系統架構 應用程式結構](https://laravel.tw/docs/5.1/structure) \#Architecture
+  - [Laravel 文件：系統架構 應用程式結構](https://laravel.tw/docs/5.4/structure) \#5.4 \#Architecture
 - 進階
-  - [Laravel 文件：系統架構 請求的生命週期](https://laravel.tw/docs/5.1/lifecycle) \#Architecture
-  - [Laravel 文件：系統架構 服務提供者](https://laravel.tw/docs/5.1/providers) \#Architecture
-  - [Laravel 文件：系統架構 服務容器](https://laravel.tw/docs/5.1/container) \#Architecture
-  - [Laravel 文件：系統架構 Contracts](https://laravel.tw/docs/5.1/contracts) \#Architecture
-  - [Laravel 文件：系統架構 Facades](https://laravel.tw/docs/5.1/facades) \#Architecture
+  - [Laravel 文件：系統架構 請求的生命週期](https://laravel.tw/docs/5.4/lifecycle) \#5.4 \#Architecture
+  - [Laravel 文件：系統架構 服務提供者](https://laravel.tw/docs/5.4/providers) \#5.4 \#Architecture
+  - [Laravel 文件：系統架構 服務容器](https://laravel.tw/docs/5.4/container) \#5.4 \#Architecture
+  - [Laravel 文件：系統架構 Contracts](https://laravel.tw/docs/5.4/contracts) \#5.4 \#Architecture
+  - [Laravel 文件：系統架構 Facades](https://laravel.tw/docs/5.4/facades) \#5.4 \#Architecture
   - [Laracasts: The Service Container](https://laracasts.com/series/laravel-5-fundamentals/episodes/26) \#Architecture \#Ioc
 
 ### 認證 / 安全性
 
 - 入門
   - [Laracasts: Easy Auth](https://laracasts.com/series/laravel-5-fundamentals/episodes/15) \#Authentication \#Eloquent
-  - [Laravel 文件：系統服務 認證](https://laravel.tw/docs/5.1/authentication) \#Authentication
-  - [Laravel 文件：系統服務 授權](https://laravel.tw/docs/5.1/authorization) \#Authentication
+  - [Laravel 文件：系統服務 認證](https://laravel.tw/docs/5.4/authentication) \#5.4 \#Authentication
+  - [Laravel 文件：系統服務 授權](https://laravel.tw/docs/5.4/authorization) \#5.4 \#Authentication
 
 ### 中介層
 
 - 入門
   - [Laracasts: Ogres Are Like Middleware](https://laracasts.com/series/laravel-5-fundamentals/episodes/16) \#Middleware \#Security
-  - [Laravel 文件：基本功能 中介層](https://laravel.tw/docs/5.1/middleware) \#Middleware
+  - [Laravel 文件：基本功能 中介層](https://laravel.tw/docs/5.4/middleware) \#5.4 \#Middleware
 
 ### 前端整合
 
 - 入門
   - [Laracasts: Manage Your Assets](https://laracasts.com/series/laravel-5-fundamentals/episodes/19) \#Front-End \#Elixir
-  - [Laravel 文件：系統服務 Elixir](https://laravel.tw/docs/5.1/elixir) \#Elixir
+  - [Laravel 文件：系統服務 Elixir](https://laravel.tw/docs/5.1/elixir) \#5.1 \#Elixir
 - 進階
   - [Setup Bootstrap Sass with Laravel Elixir - 使用 Laravel Elixir 整合 Bootstrap Sass](https://laravel-news.com/2015/10/setup-bootstrap-sass-with-laravel-elixir/) - [Eric L. Barnes](https://twitter.com/ericlbarnes) \#Elixir
 
@@ -161,27 +162,27 @@
 
 - 入門
   - [Laracasts: Flash Messaging](https://laracasts.com/series/laravel-5-fundamentals/episodes/20) \#Session
-  - [Laravel 文件：系統服務 Session](https://laravel.tw/docs/5.1/session) \#Session
+  - [Laravel 文件：系統服務 Session](https://laravel.tw/docs/5.4/session) \#5.4 \#Session
 
 ### 檔案系統與雲端儲存
 
 - 入門
-  - [Laravel 文件：系統服務 檔案系統與雲端儲存](https://laravel.tw/docs/5.1/filesystem) \#Filesystem
+  - [Laravel 文件：系統服務 檔案系統與雲端儲存](https://laravel.tw/docs/5.4/filesystem) \#5.4 \#Filesystem
 
 ### 快取
 
 - 入門
-  - [Laravel 文件：系統服務 快取](https://laravel.tw/docs/5.1/cache) \#Cache
+  - [Laravel 文件：系統服務 快取](https://laravel.tw/docs/5.4/cache) \#5.4 \#Cache
 
 ### 郵件
 
 - 入門
-  - [Laravel 文件：系統服務 郵件](https://laravel.tw/docs/5.1/mail) \#Mail
+  - [Laravel 文件：系統服務 郵件](https://laravel.tw/docs/5.4/mail) \#5.4 \#Mail
 
 ### 測試與程式碼風格標準
 
 - 入門
-  - [Laravel 文件：系統服務 測試](https://laravel.tw/docs/5.1/testing) \#Testing
+  - [Laravel 文件：系統服務 測試](https://laravel.tw/docs/5.4/testing) \#5.4 \#Testing
 
 ### 重構
 

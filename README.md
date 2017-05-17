@@ -35,7 +35,7 @@ These guys below contributed with content, translations and more. What are you w
   - [Routing / Controllers / Requests / Responses](#user-content-routing--controllers--requests--responses)
   - [Database](#user-content-database)
   - [Models / Eloquent](#user-content-models--eloquent)
-  - [Views / Blade](#user-content-views--blade)
+  - [Views / Blade / Language](#user-content-views--blade--language)
   - [Forms / Validation](#user-content-forms--validation)
   - [Architecture Foundations / IoC](#user-content-architecture-foundations--ioc)
   - [Auth / Security](#user-content-auth--security)
@@ -63,19 +63,19 @@ These guys below contributed with content, translations and more. What are you w
 - [Laracasts: Laravel 5 Fundamentals](https://laracasts.com/series/laravel-5-fundamentals)
 - Laravel 5.1 Homestead Install Guide
   - [Laravel Homestead on Windows 8](http://sherriflemings.blogspot.ca/2015/03/laravel-homestead-on-windows-8.html)
-  - [Laravel Homestead on Linux or Mac](http://laravel.com/docs/5.1/homestead)
+  - [Laravel Homestead on Linux or Mac](http://laravel.com/docs/5.4/homestead) \#5.4
   - [Laracasts: Say Hello to Laravel Homestead 2.0](https://laracasts.com/lessons/say-hello-to-laravel-homestead-two)
 - [Setup Laravel excutable enviroment on AWS EC2 quickly](https://github.com/fukuball/ec2-laravel-evn-installer)
 - Learn from tutorial
-  - [Laravel Documentation: Basic Task List](http://laravel.com/docs/5.1/quickstart)
-  - [Laravel Documentation: Intermediate Task List](http://laravel.com/docs/5.1/quickstart-intermediate)
-- [Laravel Documentation](http://laravel.com/docs/5.1)
+  - [Laravel Documentation: Basic Task List](http://laravel.com/docs/5.1/quickstart) \#5.1
+  - [Laravel Documentation: Intermediate Task List](http://laravel.com/docs/5.1/quickstart-intermediate) \#5.1
+- [Laravel Documentation](http://laravel.com/docs/5.4) \#5.4
 
 ## Quick References
 
 - [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
 - [Awesome PHP](https://github.com/ziadoz/awesome-php)
-- [Laravel API](http://laravel.com/api/5.1/)
+- [Laravel API](http://laravel.com/api/5.4/) \#5.4
 - [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
 - [bestmomo/laravel5-3-example](https://github.com/bestmomo/laravel5-3-example) - A good example of how to use Laravel 5.3 to build an web application.
 
@@ -87,16 +87,16 @@ These guys below contributed with content, translations and more. What are you w
   - [Laracasts: Meet Composer](https://laracasts.com/series/laravel-5-fundamentals/episodes/1) \#Composer
   - [Laracasts: Virtual Machines and Homestead](https://laracasts.com/series/laravel-5-fundamentals/episodes/2) \#Homestead \#Virtual Machine \#Vagrant
   - [Composer Intro](https://getcomposer.org/doc/00-intro.md) \#Composer
-  - [Laravel Documentation: Setup Homestead](http://laravel.com/docs/5.1/homestead) \#Homestead
+  - [Laravel Documentation: Setup Homestead](http://laravel.com/docs/5.4/homestead) \#5.4 \#Homestead
 
 ### Routing / Controllers / Requests / Responses
 
 - Getting Started
   - [Laracasts: A Gentle Introduction to Routing, Controllers, and Views](https://laracasts.com/series/laravel-5-fundamentals/episodes/3) \#Routing \#Controller \#View
-  - [Laravel Documentation: The Basics Routing](http://laravel.com/docs/5.1/routing) \#Routing
-  - [Laravel Documentation: The Basics Controllers](http://laravel.com/docs/5.1/controllers) \#Controller
-  - [Laravel Documentation: The Basics Requests](http://laravel.com/docs/5.1/requests) \#Request
-  - [Laravel Documentation: The Basics Responses](http://laravel.com/docs/5.1/responses) \#Response
+  - [Laravel Documentation: The Basics Routing](http://laravel.com/docs/5.4/routing) \#5.4 \#Routing
+  - [Laravel Documentation: The Basics Controllers](http://laravel.com/docs/5.4/controllers) \#5.4 \#Controller
+  - [Laravel Documentation: The Basics Requests](http://laravel.com/docs/5.4/requests) \#5.4 \#Request
+  - [Laravel Documentation: The Basics Responses](http://laravel.com/docs/5.4/responses) \#5.4 \#Response
 - Advanced
   - [Laracasts: Route Model Binding](https://laracasts.com/series/laravel-5-fundamentals/episodes/18) \#Routing
 
@@ -104,74 +104,75 @@ These guys below contributed with content, translations and more. What are you w
 
 - Getting Started
   - [Laracasts: Migrations](https://laracasts.com/series/laravel-5-fundamentals/episodes/7) \#Migration
-  - [Laravel Documentation: Database Getting Started](http://laravel.com/docs/5.1/database) \#Database
-  - [Laravel Documentation: Database Migrations](http://laravel.com/docs/5.1/migrations) \#Migration
+  - [Laravel Documentation: Database Getting Started](http://laravel.com/docs/5.4/database) \#5.4 \#Database
+  - [Laravel Documentation: Database Migrations](http://laravel.com/docs/5.4/migrations) \#5.4 \#Migration
 - Advanced
-  - [Laravel Documentation: Database Query Builder](http://laravel.com/docs/5.1/queries) \#Database
-  - [Laravel Documentation: Database Seeding](http://laravel.com/docs/5.1/seeding) \#Migration
+  - [Laravel Documentation: Database Query Builder](http://laravel.com/docs/5.4/queries) \#5.4 \#Database
+  - [Laravel Documentation: Database Seeding](http://laravel.com/docs/5.4/seeding) \#5.4 \#Migration
 
 ### Models / Eloquent
 
 - Getting Started
   - [Laracasts: Eloquent 101](https://laracasts.com/series/laravel-5-fundamentals/episodes/8) \#Eloquent
   - [Laracasts: Basic Model/Controller/View Workflow](https://laracasts.com/series/laravel-5-fundamentals/episodes/9) \#Model \#Eloquent
-  - [Laravel Documentation: Eloquent ORM Getting Started](http://laravel.com/docs/5.1/eloquent) \#Eloquent
+  - [Laravel Documentation: Eloquent ORM Getting Started](http://laravel.com/docs/5.4/eloquent) \#5.4 \#Eloquent
 - Advanced
-  - [Laravel Documentation: Eloquent ORM Relationships](http://laravel.com/docs/5.1/eloquent-relationships) \#Eloquent
-  - [Laravel Documentation: Eloquent ORM Collections](http://laravel.com/docs/5.1/eloquent-collections) \#Eloquent
-  - [Laravel Documentation: Eloquent ORM Mutators](http://laravel.com/docs/5.1/eloquent-mutators) \#Eloquent
-  - [Laravel Documentation: Eloquent ORM Serialization](http://laravel.com/docs/5.1/eloquent-serialization) \#Eloquent
+  - [Laravel Documentation: Eloquent ORM Relationships](http://laravel.com/docs/5.4/eloquent-relationships) \#5.4 \#Eloquent
+  - [Laravel Documentation: Eloquent ORM Collections](http://laravel.com/docs/5.4/eloquent-collections) \#5.4 \#Eloquent
+  - [Laravel Documentation: Eloquent ORM Mutators](http://laravel.com/docs/5.4/eloquent-mutators) \#5.4 \#Eloquent
+  - [Laravel Documentation: Eloquent ORM Serialization](http://laravel.com/docs/5.4/eloquent-serialization) \#5.4 \#Eloquent
   - [Laracasts: Dates, Mutators, and Scopes](https://laracasts.com/series/laravel-5-fundamentals/episodes/11) \#Eloquent \#Carbon
   - [Laracasts: Eloquent Relationships](https://laracasts.com/series/laravel-5-fundamentals/episodes/14) \#Eloquent
 
-### Views / Blade
+### Views / Blade / Language
 
 - Getting Started
   - [Laracasts: Passing Data to Views](https://laracasts.com/series/laravel-5-fundamentals/episodes/4) \#View
-  - [Laravel Documentation: The Basics Views](http://laravel.com/docs/5.1/views) \#View
+  - [Laravel Documentation: The Basics Views](http://laravel.com/docs/5.4/views) \#5.4 \#View
   - [Laracasts: Blade 101](https://laracasts.com/series/laravel-5-fundamentals/episodes/5) \#View \#Blade
-  - [Laravel Documentation: The Basics Blade Templates](http://laravel.com/docs/5.1/blade) \#View \#Blade
+  - [Laravel Documentation: The Basics Blade Templates](http://laravel.com/docs/5.4/blade) \#5.4 \#View \#Blade
 - Advanced
   - [Laracasts: View Partials and Form Reuse](https://laracasts.com/series/laravel-5-fundamentals/episodes/13) \#View
+  - [Php vars @ JS with the help of a Laravel SP & View Composer](https://medium.com/@lollypopgr/php-vars-js-with-the-help-of-a-laravel-sp-view-composer-9e017b66c036) \#5.4 \#View \#Language
 
 ### Forms / Validation
 
 - Getting Started
   - [Laracasts: Forms](https://laracasts.com/series/laravel-5-fundamentals/episodes/10) \#Form \#View
   - [Laracasts: Form Requests and Controller Validation](https://laracasts.com/series/laravel-5-fundamentals/episodes/12) \#Form \#Validation
-  - [Laravel Documentation: Services Validation](http://laravel.com/docs/5.1/validation) \#Validation
+  - [Laravel Documentation: Services Validation](http://laravel.com/docs/5.4/validation) \#5.4 \#Validation
 
 ### Architecture Foundations / IoC
 
 - Getting Started
   - [Laracasts: Environments and Configuration](https://laracasts.com/series/laravel-5-fundamentals/episodes/6) \#Architecture
-  - [Laravel Documentation: Architecture Foundations Application Structure](http://laravel.com/docs/5.1/structure) \#Architecture
+  - [Laravel Documentation: Architecture Foundations Application Structure](http://laravel.com/docs/5.4/structure) \#5.4 \#Architecture
 - Advanced
-  - [Laravel Documentation: Architecture Foundations Request Lifecycle](http://laravel.com/docs/5.1/lifecycle) \#Architecture
-  - [Laravel Documentation: Architecture Foundations Service Providers](http://laravel.com/docs/5.1/providers) \#Architecture
-  - [Laravel Documentation: Architecture Foundations Service Container](http://laravel.com/docs/5.1/container) \#Architecture
-  - [Laravel Documentation: Architecture Foundations Contracts](http://laravel.com/docs/5.1/contracts) \#Architecture
-  - [Laravel Documentation: Architecture Foundations Facades](http://laravel.com/docs/5.1/facades) \#Architecture
+  - [Laravel Documentation: Architecture Foundations Request Lifecycle](http://laravel.com/docs/5.4/lifecycle) \#5.4 \#Architecture
+  - [Laravel Documentation: Architecture Foundations Service Providers](http://laravel.com/docs/5.4/providers) \#5.4 \#Architecture
+  - [Laravel Documentation: Architecture Foundations Service Container](http://laravel.com/docs/5.4/container) \#5.4 \#Architecture
+  - [Laravel Documentation: Architecture Foundations Contracts](http://laravel.com/docs/5.4/contracts) \#5.4 \#Architecture
+  - [Laravel Documentation: Architecture Foundations Facades](http://laravel.com/docs/5.4/facades) \#5.4 \#Architecture
   - [Laracasts: The Service Container](https://laracasts.com/series/laravel-5-fundamentals/episodes/26) \#Architecture \#Ioc
 
 ### Auth / Security
 
 - Getting Started
   - [Laracasts: Easy Auth](https://laracasts.com/series/laravel-5-fundamentals/episodes/15) \#Authentication \#Eloquent
-  - [Laravel Documentation: Services Authentication](http://laravel.com/docs/5.1/authentication) \#Authentication
-  - [Laravel Documentation: Services Authorization](http://laravel.com/docs/5.1/authorization) \#Authentication
+  - [Laravel Documentation: Services Authentication](http://laravel.com/docs/5.4/authentication) \#5.4 \#Authentication
+  - [Laravel Documentation: Services Authorization](http://laravel.com/docs/5.4/authorization) \#5.4 \#Authentication
 
 ### Middleware
 
 - Getting Started
   - [Laracasts: Ogres Are Like Middleware](https://laracasts.com/series/laravel-5-fundamentals/episodes/16) \#Middleware \#Security
-  - [Laravel Documentation: The Basics Middleware](http://laravel.com/docs/5.1/middleware) \#Middleware
+  - [Laravel Documentation: The Basics Middleware](http://laravel.com/docs/5.4/middleware) \#5.4 \#Middleware
 
 ### Front End
 
 - Getting Started
   - [Laracasts: Manage Your Assets](https://laracasts.com/series/laravel-5-fundamentals/episodes/19) \#Front-End \#Elixir
-  - [Laravel Documentation: Services Elixir](http://laravel.com/docs/5.1/elixir) \#Elixir
+  - [Laravel Documentation: Services Elixir](http://laravel.com/docs/5.1/elixir) \#5.1 \#Elixir
 - Advanced
   - [Setup Bootstrap Sass with Laravel Elixir](https://laravel-news.com/2015/10/setup-bootstrap-sass-with-laravel-elixir/) - [Eric L. Barnes](https://twitter.com/ericlbarnes) \#Elixir
 
@@ -179,27 +180,27 @@ These guys below contributed with content, translations and more. What are you w
 
 - Getting Started
   - [Laracasts: Flash Messaging](https://laracasts.com/series/laravel-5-fundamentals/episodes/20) \#Session
-  - [Laravel Documentation: Services Session](http://laravel.com/docs/5.1/session) \#Session
+  - [Laravel Documentation: Services Session](http://laravel.com/docs/5.4/session) \#5.4 \#Session
 
 ### Filesystem / Cloud Storage
 
 - Getting Started
-  - [Laravel Documentation: Services Filesystem / Cloud Storage](http://laravel.com/docs/5.1/filesystem) \#Filesystem
+  - [Laravel Documentation: Services Filesystem / Cloud Storage](http://laravel.com/docs/5.4/filesystem) \#5.4 \#Filesystem
 
 ### Cache
 
 - Getting Started
-  - [Laravel Documentation: Services Cache](http://laravel.com/docs/5.1/cache) \#Cache
+  - [Laravel Documentation: Services Cache](http://laravel.com/docs/5.4/cache) \#5.4 \#Cache
 
 ### Mail
 
 - Getting Started
-  - [Laravel Documentation: Services Mail](http://laravel.com/docs/5.1/mail) \#Mail
+  - [Laravel Documentation: Services Mail](http://laravel.com/docs/5.4/mail) \#5.4 \#Mail
 
 ### Testing and Coding Standard
 
 - Getting Started
-  - [Laravel Documentation: Services Testing](http://laravel.com/docs/5.1/testing) \#Testing
+  - [Laravel Documentation: Services Testing](http://laravel.com/docs/5.4/testing) \#5.4 \#Testing
 - Advanced
   - [BDD in Laravel: Getting Started with Behat and PhpSpec](http://www.sitepoint.com/bdd-in-laravel-getting-started-with-behat-and-phpspec/) - [Bruno Skvorc](https://twitter.com/bitfalls) \#Testing
 
