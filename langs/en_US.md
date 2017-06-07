@@ -217,6 +217,7 @@
 - [Stillat](http://www.stillat.com/blog/category/programming/laravel/)
 - [Bosnadev](https://bosnadev.com/tag/laravel-2/)
 - [Laravel 5 Beauty](http://laravelcoding.com/blog?tag=L5+Beauty)
+- [Diving Laravel](https://divinglaravel.com/)
 
 ## Newsletters
 
