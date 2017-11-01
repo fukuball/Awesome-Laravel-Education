@@ -34,9 +34,9 @@
 - [Interview](#user-content-interview)
 
 ## New to Laravel
-
 - [Laracasts: Laravel From Scratch](https://laracasts.com/series/laravel-5-from-scratch)
 - [Laracasts: Laravel 5 Fundamentals](https://laracasts.com/series/laravel-5-fundamentals)
+- [DevMarketer: How to Build a Blog with Laravel (5.2)] (https://www.youtube.com/watch?v=R8B4og-BeCk&list=PLwAKR305CRO-Q90J---jXVzbOd4CDRbVx) 
 - Laravel Homestead Install Guide
   - [Laravel Homestead on Windows 8](http://sherriflemings.blogspot.ca/2015/03/laravel-homestead-on-windows-8.html)
   - [Laravel Homestead on Linux or Mac](http://laravel.com/docs/5.4/homestead) \#5.4
