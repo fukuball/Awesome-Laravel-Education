@@ -261,6 +261,8 @@ These guys below contributed with content, translations and more. What are you w
 - [Laravel Homestead Build Scripts](https://github.com/laravel/settler)
 - [Laravel Website](https://github.com/laravel/laravel.com)
 - [Laravel Art](https://github.com/laravel/art)
+- [Laravel Antares](https://github.com/antaresproject/)
+
 
 ## Coding Standard
 
