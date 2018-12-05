@@ -56,6 +56,7 @@ These guys below contributed with content, translations and more. What are you w
 - [Develop Tools](#user-content-develop-tools)
 - [PHP Book List for Developer](#user-content-php-book-list-for-developer)
 - [Interview](#user-content-interview)
+- [Misc](#user-content-misc)
 
 ## New to Laravel
 
@@ -339,6 +340,10 @@ These guys below contributed with content, translations and more. What are you w
 - [careercup](http://www.careercup.com/)
 - [LeetCode](https://leetcode.com/)
 - [Laravel Interview Questions and Answers](http://www.laravelinterviewquestions.com/)
+
+## Misc
+
+- [LaravelLinks Telegram Channel](https://telegram.me/laravellinks)
 
 # License
 
