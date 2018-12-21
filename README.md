@@ -343,6 +343,7 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Misc
 
+- [LaravelCollections.com](https://laravelcollections.com)
 - [LaravelLinks Telegram Channel](https://telegram.me/laravellinks)
 
 # License
