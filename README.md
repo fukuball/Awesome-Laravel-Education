@@ -243,6 +243,7 @@ These guys below contributed with content, translations and more. What are you w
 - [Bosnadev](https://bosnadev.com/tag/laravel-2/)
 - [Laravel 5 Beauty](http://laravelcoding.com/blog?tag=L5+Beauty)
 - [Diving Laravel](https://divinglaravel.com/)
+- [Bootsity](https://bootsity.com/)
 
 ## Newsletters
 
