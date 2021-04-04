@@ -218,6 +218,9 @@ These guys below contributed with content, translations and more. What are you w
     - [Laracasts: When You Want a View Partial to Always Receive Data](https://laracasts.com/series/laravel-5-fundamentals/episodes/25)
     - [Laracasts: Loose Ends and Wrapping Up](https://laracasts.com/series/laravel-5-fundamentals/episodes/27)
 
+### Packages
+ - [Laravel Package Tutorials](https://www.youtube.com/c/LaravelPackageTutorial)
+
 ## Tutorial
 
 - [Laracasts](https://laracasts.com/)
