@@ -221,6 +221,7 @@ These guys below contributed with content, translations and more. What are you w
 ## Tutorial
 
 - [Laracasts](https://laracasts.com/)
+- [TutorialSearch](https://tutorialsearch.io/browse/mobile-development/flutter-laravel) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [Tuts+](http://code.tutsplus.com/categories/php/courses)
 - [Sitepoint](http://www.sitepoint.com/php/)
 - [Laravel Tricks](http://laravel-tricks.com/)
