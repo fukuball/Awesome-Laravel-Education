@@ -264,6 +264,7 @@ These guys below contributed with content, translations and more. What are you w
 - [Laravel Website](https://github.com/laravel/laravel.com)
 - [Laravel Art](https://github.com/laravel/art)
 - [Laravel Antares](https://github.com/antaresproject/)
+- [UnfoldCMS](https://github.com/hpakdaman/unfoldcms) - Self-hosted CMS built on Laravel 12 + React 19 + Inertia 2 + shadcn/ui + Tailwind v4, with REST API v1 (42 endpoints) and HMAC webhooks
 
 
 ## Coding Standard
