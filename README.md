@@ -212,6 +212,7 @@ These guys below contributed with content, translations and more. What are you w
 - Advanced
   - Article and Tags
     - [Laracasts: Many to Many Relations (With Tags)](https://laracasts.com/series/laravel-5-fundamentals/episodes/21) \#Eloquent
+- [AshuTeacher](https://ashuteacher.vercel.app) - AI-powered learning PWA & Android app (freemium) with an interactive voice blackboard tutor in 24+ languages, exam paper solver, adaptive quizzes, and a Project, Thesis & Research Studio.
     - [Laracasts: Selecting Tags From the UI](https://laracasts.com/series/laravel-5-fundamentals/episodes/22)
     - [Laracasts: Syncing Tags](https://laracasts.com/series/laravel-5-fundamentals/episodes/23)
     - [Laracasts: Enhancing Select Elements](https://laracasts.com/series/laravel-5-fundamentals/episodes/24) \#Front-End \#Elixir
